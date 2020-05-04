@@ -7,7 +7,7 @@ menu:
     parent: user-myprof
 ---
 
-> ⚠️ **この機能は未完成です。**
+> <img src="https://twemoji.maxcdn.com/v/12.1.6/72x72/26a0.png" width="20"> **この機能は未完成です。**
 
 1. どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。
 2. 上の![user2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/user2.png)の中から、  

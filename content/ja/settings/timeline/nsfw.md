@@ -6,7 +6,7 @@ menu:
     weight: 30
     parent: settings-timeline
 ---
-⚠️「はい」を強く推奨します。  
+<img src="https://twemoji.maxcdn.com/v/12.1.6/72x72/26a0.png" width="20">「はい」を強く推奨します。  
 オンのとき  
 ![settings3](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings3.png)  
 オフのとき  

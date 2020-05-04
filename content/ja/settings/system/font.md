@@ -12,7 +12,7 @@ menu:
 1. ![settings2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings2.png)  
 から __環境設定__ を選択。
 1. __フォント__ 値を変更し、 __設定__ を押します。クリックすると他の未保存の設定を含めて全て更新・保存されます。
-⚠️CSSに準じています。一部指定できないフォントがあります。
+<img src="https://twemoji.maxcdn.com/v/12.1.6/72x72/26a0.png" width="20">CSSに準じています。一部指定できないフォントがあります。
 
 ### フォントの一覧を取得する
 **Linuxには非対応です。**

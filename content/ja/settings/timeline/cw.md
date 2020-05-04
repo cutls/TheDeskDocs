@@ -6,7 +6,7 @@ menu:
     weight: 40
     parent: settings-timeline
 ---
-⚠️「はい」を強く推奨します。  
+<img src="https://twemoji.maxcdn.com/v/12.1.6/72x72/26a0.png" width="20">「はい」を強く推奨します。  
 
 1. ![settings1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings1.png)を選択。
 1. ![settings2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings2.png)から __タイムラインの設定__ を選択。

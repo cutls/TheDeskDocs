@@ -7,7 +7,7 @@ menu:
     parent: mute
 ---
 
-> ⚠️ **この機能は未完成です。**  
+> <img src="https://twemoji.maxcdn.com/v/12.1.6/72x72/26a0.png" width="20"> **この機能は未完成です。**  
 > \[Tag: [未完成の歴史](https://docs.thedesk.top/?q=未完成の歴史)\]
 
 viaを表示する設定をしているとき、  
