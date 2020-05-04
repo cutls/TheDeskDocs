@@ -7,7 +7,7 @@ menu:
     parent: mute
 ---
 > ⚠ **この機能は未完成です。**  
-> \[Tag: [未完成の歴史](https://docs.thedesk.top/?q=未完成の歴史)\]
+>未完成の歴史
    
 viaを表示する設定をしているとき、  
 ![toottl28](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toottl28.png)  

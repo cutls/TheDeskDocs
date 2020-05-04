@@ -4,7 +4,7 @@ description: ローカルタイムラインで言及を確認する
 menu:
   docs:
     weight: 40
-    parent: tootOnTl-tips
+    parent: tootontl-tips
 ---
 
 トゥートがローカルタイムラインでどのような反応をされているかをチェックできます。  

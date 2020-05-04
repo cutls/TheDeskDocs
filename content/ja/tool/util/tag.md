@@ -1,5 +1,5 @@
 ---
-title: cd よく使うタグ
+title: cf よく使うタグ
 description: これは参照ページです
 menu:
   docs:
@@ -7,4 +7,4 @@ menu:
     parent: tool-util
 ---
 
-[こちら](https://docs.thedesk.top/post/tag)を参照。
+[こちら](https://docs.thedesk.top/post/plus/tag)を参照。

@@ -1,27 +1,11 @@
 ---
-title: SpotifyとNowPlayingの設定(NowPlaying on WIndows/macOS)
-description: SpotifyとNowPlayingの設定(NowPlaying on WIndows/macOS)
+title: SpotifyとNowPlayingの設定(NowPlaying on macOS)
+description: SpotifyとNowPlayingの設定(NowPlaying onmacOS)
 menu:
   docs:
     weight: 30
     parent: settings-etc
 ---
-
-
-## 種類(Windows)
-
-1. AIMP
-1. iTunes
-1. MediaMonkey
-1. Winamp
-1. WMP
-1. WLM
-1. CAD
-
-foobar2000, MusicBee,J. River Media Center, Media JukeboxはCADを、  
-Last.fm Client, TTPlayer, OpenPandora, ZuneはWLMを選んでください。  
-ただし、foobar2000は[foo_cad plugin](http://poiru.github.com/foo-cad/)が必要です。  
-MusicBeeもCADを有効にする必要があります。
 
 ## テンプレートの編集
 説明通り入力して、 __設定__ を押して保存してください。  

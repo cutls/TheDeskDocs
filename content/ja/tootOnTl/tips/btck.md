@@ -4,7 +4,7 @@ description: トゥートの言及元を調べる
 menu:
   docs:
     weight: 30
-    parent: tootOnTl-tips
+    parent: tootontl-tips
 ---
 
 ブーストに対してコメントすることは多いですが、ローカルタイムラインにブーストは流れてこないので、何について言及しているかわからないことがあります。  

@@ -4,10 +4,10 @@ description: 引用する
 menu:
   docs:
     weight: 20
-    parent: tootOnTl-basic
+    parent: tootontl-basic
 ---
 
-[引用形式](https://docs.thedesk.top/post/quote)の設定が必要です。  
+[引用形式](https://docs.thedesk.top/settings/post/quote)の設定が必要です。  
 デフォルトでは表示されません。  
 
 1. トゥート下部の  

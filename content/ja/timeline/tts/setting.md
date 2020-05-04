@@ -7,4 +7,4 @@ menu:
     parent: timeline-tts
 ---
 
-[こちら](https://docs.thedesk.top/settings/tts)を参照。
+[こちら](https://docs.thedesk.top/settings/etc/tts)を参照。

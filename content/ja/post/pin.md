@@ -4,7 +4,7 @@ description: これは参照ページです
 menu:
   docs:
     weight: 99
-    parent: basic
+    parent: post
 ---
 
-[こちら](https://docs.thedesk.top/toot-on-tl/pin)を参照。
+[こちら](https://docs.thedesk.top/tootontl/basic/pin)を参照。

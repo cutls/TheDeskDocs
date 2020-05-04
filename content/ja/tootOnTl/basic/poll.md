@@ -4,7 +4,7 @@ description: 投票する
 menu:
   docs:
     weight: 50
-    parent: tootOnTl-basic
+    parent: tootontl-basic
 ---
 
 終了済みのアンケート  

@@ -4,7 +4,7 @@ description: これは参照ページです
 menu:
   docs:
     weight: 20
-    parent: timeline
+    parent: tootontl
 ---
 
-[こちら](https://docs.thedesk.top/post/delete)を参照。
+[こちら](https://docs.thedesk.top/post/basic/delete)を参照。

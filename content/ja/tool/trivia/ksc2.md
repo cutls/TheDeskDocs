@@ -1,5 +1,5 @@
 ---
-title: cd 一発文字入力ショートカット
+title: cf 一発文字入力ショートカット
 description: これは参照ページです
 menu:
   docs:
@@ -7,4 +7,4 @@ menu:
     parent: tool-trivia
 ---
 
-[こちら](https://docs.thedesk.top/settings/ksc)を参照。
+[こちら](https://docs.thedesk.top/settings/etc/ksc)を参照。

@@ -7,4 +7,4 @@ menu:
     parent: menu
 ---
 
-[こちら](https://docs.thedesk.top/timeline/add)を参照。
+[こちら](https://docs.thedesk.top/timeline/edit/add)を参照。

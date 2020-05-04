@@ -7,7 +7,7 @@ menu:
     parent: settings-etc
 ---
 
-[読み上げ](https://docs.thedesk.top/timeline/tts)のボリュームや速度、高さを調節できます。  
+[読み上げ](https://docs.thedesk.top/timeline/tts/tts)のボリュームや速度、高さを調節できます。  
 
 1. ![settings1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings1.png)を選択。
 1. ![settings2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings2.png)から __読み上げの設定__ を選択。

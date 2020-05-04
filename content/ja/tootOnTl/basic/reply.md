@@ -4,7 +4,7 @@ description: 返信する
 menu:
   docs:
     weight: 10
-    parent: tootOnTl-basic
+    parent: tootontl-basic
 ---
 
 1. トゥート下部の ![toottl1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toottl1.png)  

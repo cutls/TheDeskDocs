@@ -7,4 +7,4 @@ menu:
     parent: tool-util
 ---
 
-[こちら](https://docs.thedesk.top/post/nowplaying)を参照。
+[こちら](https://docs.thedesk.top/post/plus/spotify)などを参照。

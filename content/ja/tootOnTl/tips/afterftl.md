@@ -4,7 +4,7 @@ description: 連合タイムラインで言及を確認する
 menu:
   docs:
     weight: 50
-    parent: tootOnTl-tips
+    parent: tootontl-tips
 ---
 
 トゥートがタイムラインでどのような反応をされているかをチェックできます。広い範囲を捜索するので大変です。  

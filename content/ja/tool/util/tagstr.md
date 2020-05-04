@@ -1,5 +1,5 @@
 ---
-title: cd 実況する
+title: cf 実況する
 description: これは参照ページです
 menu:
   docs:
@@ -7,4 +7,4 @@ menu:
     parent: tool-util
 ---
 
-[こちら](https://docs.thedesk.top/post/tagstr)を参照。
+[こちら](https://docs.thedesk.top/post/plus/tagstr)を参照。

@@ -4,7 +4,7 @@ description: ユーザータイムラインで言及を確認する
 menu:
   docs:
     weight: 45
-    parent: tootOnTl-tips
+    parent: tootontl-tips
 ---
 
 トゥートしたユーザーの続きのトゥートを取得します。  

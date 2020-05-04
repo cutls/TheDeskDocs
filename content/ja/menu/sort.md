@@ -7,4 +7,4 @@ menu:
     parent: menu
 ---
 
-[こちら](https://docs.thedesk.top/timeline/sort)を参照。
+[こちら](https://docs.thedesk.top/timeline/edit/sort)を参照。

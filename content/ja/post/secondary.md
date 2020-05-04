@@ -4,7 +4,7 @@ description: これは参照ページです
 menu:
   docs:
     weight: 99
-    parent: basic
+    parent: post
 ---
 
-[こちら](https://docs.thedesk.top/setting/post/secondary)を参照。
+[こちら](https://docs.thedesk.top/settings/post/secondary)を参照。

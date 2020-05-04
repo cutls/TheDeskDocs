@@ -1,5 +1,5 @@
 ---
-title: cd 「ナノ」モード
+title: cf 「ナノ」モード
 description: これは参照ページです
 menu:
   docs:

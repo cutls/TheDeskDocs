@@ -4,7 +4,7 @@ description: エアリプを確認する/このときの話題を確認する
 menu:
   docs:
     weight: 20
-    parent: tootOnTl-tips
+    parent: tootontl-tips
 ---
 
 ローカル内でコミュニティを形成していると、他のインスタンスから見るとどんな話になっているかがわからないときがあります。  

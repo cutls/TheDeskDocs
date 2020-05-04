@@ -17,4 +17,4 @@ iTunesのNowPlayingです。macOS 10.15 Catalina以降の「ミュージック�
 
    ![toot13](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toot13.png)から「NowPlaying」を押してください。  
 
-細かい投稿フォーマットは、[SpotifyとNowPlayingの設定](https://docs.thedesk.top/settings/spotify)に記載されています。
+細かい投稿フォーマットは、[SpotifyとNowPlayingの設定](https://docs.thedesk.top/settings/etc/spotify)に記載されています。

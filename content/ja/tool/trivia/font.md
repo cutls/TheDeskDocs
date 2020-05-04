@@ -1,5 +1,5 @@
 ---
-title: cd フォントとそのサイズを変える
+title: cf フォントとそのサイズを変える
 description: これは参照ページです
 menu:
   docs:

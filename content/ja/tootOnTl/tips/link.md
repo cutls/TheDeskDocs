@@ -4,7 +4,7 @@ description: トゥートのリンクを解析
 menu:
   docs:
     weight: 70
-    parent: tootOnTl-tips
+    parent: tootontl-tips
 ---
 
 1. トゥート下部の ![toottl1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toottl1.png) ![toottl10](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toottl10.png)を押します。 URLが存在する場合に表示されます。

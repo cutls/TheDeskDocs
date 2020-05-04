@@ -4,7 +4,7 @@ description: トゥートを翻訳する
 menu:
   docs:
     weight: 60
-    parent: tootOnTl-tips
+    parent: tootontl-tips
 ---
 
 1. トゥート下部の  

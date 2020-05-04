@@ -1,5 +1,5 @@
 ---
-title: cd メインアカウントを設定する
+title: cf メインアカウントを設定する
 description: これは参照ページです
 menu:
   docs:

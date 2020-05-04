@@ -32,8 +32,8 @@ enableGitInfo = true
   [[menu.docs]]
     name = "タイムライン上のトゥート"
     weight = 50
-    identifier = "tootOnTl"
-    url = "/tootOnTl/"
+    identifier = "tootontl"
+    url = "/tootontl/"
   [[menu.docs]]
     name = "ユーザー情報"
     weight = 60

@@ -4,7 +4,7 @@ description: このトゥートのリプライ元/先を確認
 menu:
   docs:
     weight: 10
-    parent: tootOnTl-tips
+    parent: tootontl-tips
 ---
 
 1. トゥート下部の  

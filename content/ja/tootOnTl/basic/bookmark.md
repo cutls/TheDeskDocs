@@ -4,7 +4,7 @@ description: トゥートをブックマーク
 menu:
   docs:
     weight: 40
-    parent: tootOnTl-basic
+    parent: tootontl-basic
 ---
 
 1. トゥート下部の  

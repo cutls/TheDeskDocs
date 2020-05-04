@@ -14,5 +14,5 @@ menu:
 
    ![user10](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/user10.png)を選択します。  
 
-> \[Tag: [未完成の歴史](https://docs.thedesk.top/?q=未完成の歴史)\]
+>未完成の歴史
 

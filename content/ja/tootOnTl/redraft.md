@@ -4,7 +4,7 @@ description: これは参照ページです
 menu:
   docs:
     weight: 20
-    parent: timeline
+    parent: tootontl
 ---
 
-[こちら](https://docs.thedesk.top/post/redraft)を参照。
+[こちら](https://docs.thedesk.top/post/basic/redraft)を参照。

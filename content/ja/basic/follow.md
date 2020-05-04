@@ -7,4 +7,4 @@ menu:
     parent: basic
 ---
 
-[こちら](https://docs.thedesk.top/his-or-her-prof/follow)を参照。
+[こちら](https://docs.thedesk.top/user/hisOrHerProf/follow)を参照。

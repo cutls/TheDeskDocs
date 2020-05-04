@@ -4,7 +4,7 @@ description: トゥートのURLをコピー
 menu:
   docs:
     weight: 40
-    parent: tootOnTl-share
+    parent: tootontl-share
 ---
 
 1. トゥート右側の  

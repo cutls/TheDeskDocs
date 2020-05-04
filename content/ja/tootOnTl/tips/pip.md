@@ -4,7 +4,7 @@ description: トゥートのリンクの動画をオーバーレイ表示
 menu:
   docs:
     weight: 80
-    parent: tootOnTl-tips
+    parent: tootontl-tips
 ---
 
 1. トゥートの動画を展開します ![toottl25](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toottl25.png)
