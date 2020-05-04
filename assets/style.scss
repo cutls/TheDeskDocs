@@ -122,7 +122,7 @@ body {
     align-items: center;
     color: $darkest;
     margin-top: 12px;
-    margin-bottom: 52px;
+    margin-bottom: 12px;
 
     img {
       height: 38px;
@@ -656,4 +656,22 @@ main {
 .sideTitle {
   font-size: 2rem;
   color: black;
+}
+#app {
+  input {
+    width: 90%;
+    margin-bottom: .7em;
+    padding: .55em;
+    border: 0;
+    border-radius: 3px;
+    background-color: #eff1f5;
+    box-shadow: none;
+    color: rgba(0,0,0,.7);
+    font-size: 1em;
+    line-height: 1.5;
+    transition: ease;
+  }
+  a {
+    color: lighten($vibrant, 18%);
+  }
 }

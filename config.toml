@@ -70,3 +70,9 @@ enableGitInfo = true
     contentDir = "content/ja"
     languageName = "日本語"
     weight = -99
+[outputs]
+home = ["html", "json"]
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

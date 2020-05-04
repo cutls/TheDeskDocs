@@ -9,7 +9,7 @@
         cat = path[2];
       }
       const id = 'ident_' + cat;
-      document.getElementById(id).open = true
+      if(document.getElementById(id)) document.getElementById(id).open = true
     }
   };
 

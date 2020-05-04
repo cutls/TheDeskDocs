@@ -7,7 +7,7 @@ menu:
     parent: tool-tips
 ---
 TheDeskをリアルタイムで何人が起動しているかを表示します。  
-__ディスプレイサイズが1300px以上の場合のみ有効です__  
+__ディスプレイサイズが890px以上の場合のみ有効です__  
 1. 画面下部の![tool5](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/tool5.png)を押します。  
 1. ![tool5](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/tool5.png)を押します。  
 1. ![tool6](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/tool6.png)を押します。  
