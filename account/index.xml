@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Accounts on TheDesk documentation</title><link>http://docs.thedesk.top/account/</link><description>Recent content in Accounts on TheDesk documentation</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><atom:link href="http://docs.thedesk.top/account/index.xml" rel="self" type="application/rss+xml"/><item><title>Misskeyアカウントの追加</title><link>http://docs.thedesk.top/account/misskey/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/account/misskey/</guid><description/></item><item><title>アカウントの削除</title><link>http://docs.thedesk.top/account/remove/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/account/remove/</guid><description>を選択。 消したいアカウントの
+の 削除 を押す。 確認ダイアログが出ます。</description></item><item><title>アカウントの追加\(Mastodon\)</title><link>http://docs.thedesk.top/account/add/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/account/add/</guid><description>を選択
+「アカウントを追加」に好きなインスタンスの URL を入力
+@TheDeskTest@mstdn.jp にログインする場合、mstdn.jp と入力します。
+コードセットアップにチェックが入っていない場合、チェックしてください。
+Misskey の場合は Misskey としてログインにチェックを入れてください。
+Mastodonの場合
+「承認」してください。 PleromaやMisskeyだと画面が異なります。 以下MastodonやPleromaのみ
+コードをコピーして、
+にペーストして「Auth」を押してください。
+以下Misskeyのみ
+Misskeyの場合、ログイン後はTheDeskに戻って「Auth」を押してください。
+すでにコードが入力されています。
+アクセストークンでログインする
+「コードを入力」の代わりにアクセストークンを入力することで(Misskey, Dolphinの場合はiトークン)アカウント追加もできます。
+「アクセストークンを用いたセットアップ」を利用してください。</description></item><item><title>アカウントカラーを変更</title><link>http://docs.thedesk.top/account/color/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/account/color/</guid><description>アカウントカラーが適用される場所 この色に設定したとします。
+タイムライン トゥート時 このように適用されます。
+を選択。 アカウントの
+の アカウントカラーを選択 から好きな色を選びます。 変更されました。</description></item><item><title>インスタンスの情報を見る</title><link>http://docs.thedesk.top/account/info/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/account/info/</guid><description> を選択。 情報を見インスタンスにログインしているアカウントの
+の インスタンス情報 を押す。 画面最下部に表示されます。
+一部情報は instances.social より取得しています。</description></item><item><title>メインアカウントを設定</title><link>http://docs.thedesk.top/account/main/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/account/main/</guid><description>アカウントマネージャーから 指定しない場合最初にログインしたアカウントとなります。
+メインアカウントを設定しておくと、設定によっては、起動時などに標準で選択されているアカウントを固定できます。
+参照する設定
+を選択。 画面中部の
+から設定できます。 自分のプロフィールから 自分のプロフィールを開きます。(自分のアカウントを選択した状態でCtrl + Shift + Pを押したり、自分の通知から自分のアイコンを追うのが速いです。)
+「もっと」を押します。 「メインアカウントに設定」を押します。</description></item></channel></rss>

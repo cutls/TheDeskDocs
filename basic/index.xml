@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Basics on TheDesk documentation</title><link>http://docs.thedesk.top/basic/</link><description>Recent content in Basics on TheDesk documentation</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><atom:link href="http://docs.thedesk.top/basic/index.xml" rel="self" type="application/rss+xml"/><item><title>cf アカウントの追加</title><link>http://docs.thedesk.top/basic/add/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/basic/add/</guid><description>こちらを参照。</description></item><item><title>cf タイムラインを表示</title><link>http://docs.thedesk.top/basic/tl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/basic/tl/</guid><description>こちらを参照。</description></item><item><title>cf フォローする</title><link>http://docs.thedesk.top/basic/follow/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/basic/follow/</guid><description>こちらを参照。</description></item><item><title>トゥートする</title><link>http://docs.thedesk.top/basic/account/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/basic/account/</guid><description> これをクリックするとトゥートボックスが表示されます。
+トゥートボックスは固定(表示しっぱなし)することができます。詳しくは投稿ボックスの挙動を参照
+トゥートボックスは画面の左端に持ってくる事ができます。詳しくはトゥートボックスの左右入れ替えを参照。
+投稿ボックス
+現在選択されているアカウントのアイコンです。クリックしてこのアイコンのプロフィールを表示します。
+トゥートするアカウントです。クリックして切り替えられます。
+ここに内容を入力します。右下は文字数カウントです。
+左から順番に
+NSFWの設定(画像を隠します) 公開範囲の設定 CW(コンテントワーニング) クリックして警告文を入力してください。
+常に表示させておくことができます。詳しくはデフォルトの警告文/標準でCWを設定を参照
+文章を常に固定しておくことができます。詳しくはデフォルトの警告文/標準でCWを設定を参照
+ファイルの添付 画面内どこにでもドラッグアンドドロップすることで添付できます。 絵文字を挿入 その他 Adobeフォトエディタ NowPlaying(Spotify) NowPlaying 時間指定投稿 アンケート トゥートボックスのクリア(添付ファイル等もクリアされます) トゥートを押して投稿できます。</description></item><item><title>ブースト/お気に入り登録</title><link>http://docs.thedesk.top/basic/btfav/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/basic/btfav/</guid><description>トゥート下部の
+ブースト: お気に入り登録:を押します。</description></item></channel></rss>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Settings on TheDesk documentation</title><link>http://docs.thedesk.top/settings/</link><description>Recent content in Settings on TheDesk documentation</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><atom:link href="http://docs.thedesk.top/settings/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://docs.thedesk.top/settings/system/deck/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/deck/</guid><description>TweetDeck限定の最低横幅 TweetDeck専用の横幅を指定できます
+を選択。 から 環境設定 を選択。 TweetDeck限定の最低横幅値を変更し、 設定 を押します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title/><link>http://docs.thedesk.top/settings/system/theme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/theme/</guid><description>テーマの変更 色合いを5色から変えられます。
+を選択。 から 環境設定 を選択。 テーマの変更 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title/><link>http://docs.thedesk.top/settings/timeline/ticker/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/ticker/</guid><description>トゥートした人の所属インスタンスをわかりやすく彩ります(自インスタンス以外のトゥート向け)。#InstanceTickerについてCopyright 2018 weepjp, kyori19. を選択。 から タイムラインの設定 を選択。 #InstanceTickerを使う のチェックを変更します。
+変更すると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>CWの設定\(デフォルトの警告文/標準でCWを設定\)</title><link>http://docs.thedesk.top/settings/post/cw/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/post/cw/</guid><description>デフォルトの警告文 この機能は未完成です。 文字数カウントに難があります。
+を選択。 から 投稿設定 を選択。 デフォルトの警告文 の値を変更します。 設定 をクリックすると他の未保存の設定を含めて全て更新・保存されます。 [Tag: 未完成の歴史]
+標準でCWを設定 を選択。 から 投稿設定 を選択。 標準でCWを設定 の値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>SpotifyとNowPlayingの設定(NowPlaying on WIndows/macOS)</title><link>http://docs.thedesk.top/settings/etc/nowplaying/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/etc/nowplaying/</guid><description>種類(Windows) AIMP iTunes MediaMonkey Winamp WMP WLM CAD foobar2000, MusicBee,J. River Media Center, Media JukeboxはCADを、
+Last.fm Client, TTPlayer, OpenPandora, ZuneはWLMを選んでください。
+ただし、foobar2000はfoo_cad pluginが必要です。
+MusicBeeもCADを有効にする必要があります。
+テンプレートの編集 説明通り入力して、 設定 を押して保存してください。
+標準の、
+#NowPlaying {song} / {album} / {artist}
+{url}
+の場合、
+#NowPlaying 庭師KING / 救済の技法 / Susumu Hirasawa
+と入力されます。(URLは入りません)
+その他macOSのiTunesについては使用できるタグがあります。</description></item><item><title>SpotifyとNowPlayingの設定(Spotify)</title><link>http://docs.thedesk.top/settings/etc/spotify/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/etc/spotify/</guid><description>Spotifyアカウントとの連携 を選択。 から SpotifyとNowPlayingの設定 を選択。 Windowsの場合、「接続」を押した後一旦アプリが閉じ、
+が表示されます。
+その他のOSの場合、認証キーが表示されるので入力します。 テンプレートの編集 説明通り入力して、 設定 を押して保存してください。
+標準の、
+#NowPlaying {song} / {album} / {artist}
+{url}
+の場合、
+#NowPlaying 庭師KING / 救済の技法 / Susumu Hirasawa
+https://open.spotify.com/track/1GOFmfWEXFnOG52PhnIuJG
+と入力されます。
+アルバムワークを添付する を選択。 から SpotifyとNowPlayingの設定 を選択。 アルバムワークを添付する 値を変更します。クリックすると更新・保存されます。 アルバムアートワークが無い時補完する(macOS) 上の「アルバムアートワークを添付する」がはいのとき限定。
+macOSでNowPlayingしているとき、もしアルバムアートワークがない場合、Apple MusicのAPIを使用して アルバムアートワークを添付します。もしかしたら適当でない画像が添付されるかもしれません。また、Apple Musicにない曲は添付できません。
+これをはいに設定しておくと、アルバム情報が楽曲に無い場合もApple MusicのAPIで補完します。</description></item><item><title>viaを表示する</title><link>http://docs.thedesk.top/settings/timeline/via/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/via/</guid><description>設定に関わらず、トゥート詳細画面で見ることができます。
+「はい」のするとタイムライン上ですぐチェックできるようになりますが、邪魔になるかもしれません。
+を選択。 から タイムラインの設定 を選択。 viaを表示する 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>アイコンのアニメーションを再生する</title><link>http://docs.thedesk.top/settings/timeline/gif/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/gif/</guid><description>GIFアニメーションアイコンは楽しいですが、ちらつきやパフォーマンス低下などの弊害もあるのでオフにすることができます。
+を選択。 から タイムラインの設定 を選択。 アイコンのアニメーションを再生する 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>アクションボタンとしてブックマークを表示</title><link>http://docs.thedesk.top/settings/timeline/bookmark/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/bookmark/</guid><description>タイムラインの「お気に入り登録」の右側に「ブックマーク」ボタンを置くかどうか
+を選択。 から タイムラインの設定 を選択。 アクションボタンとしてブックマークを表示 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>アクションメニューを非表示</title><link>http://docs.thedesk.top/settings/timeline/action/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/action/</guid><description> 標準
+変更した場合(マウスオーバー/クリック)
+このように下のボタンが隠れます。マウスオーバーまたはクリックで表示されます。
+トゥートのどこを押しても隠れるので、お気に入り登録等を押したときも一緒に隠れます。 を選択。 から タイムラインの設定 を選択。 アクションメニューを非表示 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>ウィンドウのフレーム</title><link>http://docs.thedesk.top/settings/system/frame/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/frame/</guid><description>タイトルバーのデザインが変わります。
+フレームあり
+Windows
+フレームなし
+Windows
+ウィンドウのフレームの有無も切り替わります。
+を選択。 から 環境設定 を選択。 ウィンドウのフレーム 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>キーボードショートカットの設定</title><link>http://docs.thedesk.top/settings/etc/ksc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/etc/ksc/</guid><description>簡単文字入力 トゥートボックスに入力している際、Ctrl+Shift+数字ですぐに設定した文字列を挿入できます。
+絵文字などを登録しておくと便利です。
+を選択。 から キーボードショートカットの設定 を選択。 値を変更します。 設定 をクリックすると全て更新・保存されます。</description></item><item><title>セカンダリートゥートボタン</title><link>http://docs.thedesk.top/settings/post/secondary/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/post/secondary/</guid><description>一発で未収載や非公開のトゥートを投稿できるボタンです。
+を選択。 から 投稿設定 を選択。 セカンダリートゥートボタン 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>タイムラインのアニメーション</title><link>http://docs.thedesk.top/settings/timeline/anime/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/anime/</guid><description>アイコンのGIFアニメーションの設定とは異なります。
+標準ではタイムラインのトゥートを表示したり、カラムを表示するときにアニメーションします。
+ここではこの2種のアニメーションのみについて変更できます。
+を選択。 から タイムラインの設定 を選択。 タイムラインのアニメーション 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>タグタイムラインの表示範囲</title><link>http://docs.thedesk.top/settings/timeline/tag/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/tag/</guid><description>既定「接続しているインスタンス」では連合タイムラインからタグのついたトゥートを拾います。
+mstdn.jpのタグタイムラインで「検索対象のインスタンスのみ」に設定していると、タグのついた、mstdn.jpからのトゥートのみ表示されます。
+を選択。 から タイムラインの設定 を選択。 タグタイムラインの表示範囲 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>テーマの削除</title><link>http://docs.thedesk.top/settings/theme/delete/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/theme/delete/</guid><description> を選択。 から テーマの設定 を選択。 「テーマの選択」の下の選択ボックスから使用したいテーマを選びます。 削除を押します。</description></item><item><title>テーマの変更</title><link>http://docs.thedesk.top/settings/theme/select/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/theme/select/</guid><description>デフォルトのテーマから選ぶ 色合いを5色から変えられます。
+を選択。 から テーマの設定 を選択。 テーマの選択 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。 カスタムテーマから選ぶ 「テーマの選択」の下の選択ボックスから使用したいテーマを選び、上の選択ボックスの「Custom」を選んでください。</description></item><item><title>テーマをインポート</title><link>http://docs.thedesk.top/settings/theme/import/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/theme/import/</guid><description>を選択。 から テーマの設定 を選択。 「カスタムテーマのインポート」のところに貼り付けて、「インポート」を押してください。 JSONとJSON5の形式に対応します。
+テーマインポートについて</description></item><item><title>テーマを作る</title><link>http://docs.thedesk.top/settings/theme/create/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/theme/create/</guid><description>を選択。 から テーマの設定 を選択。 変更をクリックします。 名前 名前です。様々なところで表示されます。
+説明 省略可能です。必要な時に書いてください。
+色の系統 互換性維持のための設定です。好みで選択してください。テーマに影響はありません
+Primary 背景と区別する必要があるものの色として使われます。
+Secondary 背景色です。
+Text 文字色です。
+Accent ブーストの背景色など、Primaryと区別する必要があるものに使われます。</description></item><item><title>デフォルトの保存先</title><link>http://docs.thedesk.top/settings/system/save/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/save/</guid><description>画像ダウンロードの保存先が指定できます。デフォルトはPictures/TheDeskです。
+を選択。 から 環境設定 を選択。 変更 をクリックし、フォルダを選択します。</description></item><item><title>デフォルトの公開設定</title><link>http://docs.thedesk.top/settings/post/privacy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/post/privacy/</guid><description>前半4つ(公開(Public)~ダイレクト(Direct))は、 全てのアカウントに適用されます。
+後半2つはインスタンスごとです。
+「マストドンアカウントの既定値」とは、マストドン公式の設定上の
+「投稿の公開範囲」で指定した値です。
+この値はアカウントから「情報更新」を押さないと適用されない場合があります。
+を選択。 から 投稿設定 を選択。 デフォルトの公開設定 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>ネイティブ通知</title><link>http://docs.thedesk.top/settings/system/native/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/native/</guid><description>WIndows アクションセンターに通知が来たときに表示します。
+また、ログイン時に新規通知数を表示します。
+Linux Ubuntuの初期GUIの場合画面上部に出ます。
+macOS 画面右上に表示できます。
+を選択。 から 環境設定 を選択。 ネイティブ通知設定 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>ハードウェアアクセラレーションの無効化</title><link>http://docs.thedesk.top/settings/system/ha/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/ha/</guid><description>ハードウェアアクセラレーションはデフォルトで有効ですが、 一部環境において表示が崩れる場合があります。 その際は無効化してください。
+を選択。 から 環境設定 を選択。 ハードウェアアクセラレーションの無効化 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。また、再起動されます。</description></item><item><title>バージョニングする</title><link>http://docs.thedesk.top/settings/system/versioning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/versioning/</guid><description>新しいバージョンをダウンロードするときの挙動
+「いいえ」(初期値)の場合 Windows TheDesk-setup.exeやTheDesk.exe(32bitの場合は-ia32が拡張子前に追加)
+Linux zip版の場合thedesk.zip。deb, snap版の場合thedesk_1.1.1_amd64.deb/snap
+macOS thedesk_1.1.1.dmg
+「はい」の場合 Windows TheDesk-setup-1.1.1.exeやTheDesk-1.1.1.exe(32bitの場合は-ia32が拡張子前に追加)
+Linux zip版の場合thedesk-1.1.1.zip。deb, snap版の場合thedesk_1.1.1_amd64.deb/snap(変更なし)
+macOS 変更なし
+を選択。 から 環境設定 を選択。 バージョニングする(Windowsのダウンローダ) 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>フォント/フォントサイズ</title><link>http://docs.thedesk.top/settings/system/font/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/font/</guid><description>フォント を選択。 から 環境設定 を選択。 フォント 値を変更し、 設定 を押します。クリックすると他の未保存の設定を含めて全て更新・保存されます。 CSSに準じています。一部指定できないフォントがあります。 フォントの一覧を取得する Linuxには非対応です。 「選択」を押すと、システムにインストールされているフォントが一覧で表示されます。
+フォントサイズ 規定となるサイズで、このサイズを基準に一定倍率で拡大縮小して表示します。
+を選択。 から 環境設定 を選択。 フォントサイズ 値を変更し、 設定 を押します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>ホームと通知の未読管理</title><link>http://docs.thedesk.top/settings/timeline/unread/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/unread/</guid><description>ホームタイムラインや通知タイムラインのメニュー内のこのボタンを押すと、マーカー部分前後のタイムラインを表示します。
+最新まで読むか、カラムのアイコンをクリックするまで新しいトゥートは表示されません。
+を選択。 から タイムラインの設定 を選択。 ホームと通知の未読管理 のチェックを変更します。
+変更すると他の未保存の設定を含めて全て更新・保存されます。 未読管理マーカー保存のタイミング 最小化した TheDeskを終了した(オンにすると閉じるのに最大3秒かかります。) マウスが動いていない状態で1分以上経過した Mastodon 3.0.0から</description></item><item><title>マルチカラムの最低横幅</title><link>http://docs.thedesk.top/settings/system/width/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/width/</guid><description>TheDeskは自動伸縮式のマルチカラムを採用しています。カラムの最低横幅を指定できます。
+例 既定値(300px)に設定していて、ウィンドウサイズが1080pxの場合
+カラムが1個:1080pxが1つ カラムが2個:540pxが2つ カラムが3個:360pxが3つ カラムが4個:300pxが4つ(横スクロール) カラムが5個:300pxが5つ(横スクロール) を選択。 から 環境設定 を選択。 マルチカラムの最低横幅 値を変更し、 設定 を押します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>ユーザーエージェント</title><link>http://docs.thedesk.top/settings/system/useragent/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/useragent/</guid><description>ユーザーエージェントを変更できます。
+を選択。 から 環境設定 を選択。 ユーザーエージェントを好きな値に設定します。 変更 をクリックし、フォルダを選択します。 TheDeskのデフォルトユーザーエージェント Mastodon client: [randStr]です。[randStr]は100文字のBase64で使用される文字種です。</description></item><item><title>リプライ数表示</title><link>http://docs.thedesk.top/settings/timeline/reply/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/reply/</guid><description>マストドン2.5.0からそのトゥートへのリプライ数が表示されるようになりました。
+リプライ数はトゥートの人気度を測るバロメーターではありません。よって、2件以上のリプライがあっても一律1+と表示する設定を採用しています。
+を選択。 から タイムラインの設定 を選択。 リプライ数表示 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>引用形式</title><link>http://docs.thedesk.top/settings/post/quote/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/post/quote/</guid><description>引用形式を指定します。初期設定ではこのボタンは表示されません。
+アカウント名は「@」以降を指し、これが付与されるとメンション扱いになり、相手に通知されます。
+を選択。 から 投稿設定 を選択。 引用形式 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。 Notice: 「表示しない」を選ぶこともできます。</description></item><item><title>投稿ボックスの挙動</title><link>http://docs.thedesk.top/settings/post/postbox/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/post/postbox/</guid><description> たたむ
+トゥートした後トゥートボックスをたたみます。 投稿後も隠さない
+トゥーとした後もトゥートボックスをたたみません。連投に便利です。 枠外クリックで閉じない
+いつ何時でもボックスは開きっぱなしです。キーボードショートカットを使用したり、xを押さない限り消えません。 を選択。 から 投稿設定 を選択。 投稿ボックスの挙動 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>投稿後や起動時のアカウント</title><link>http://docs.thedesk.top/settings/post/main/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/post/main/</guid><description>メインアカウントを設定で設定したアカウントをメインで使用します。
+「メインアカウント」を使用すると、別のアカウントでトゥートしてもすぐにメインアカウントに変わります。
+起動時もメインアカウントでトゥートする設定になります。
+を選択。 から 投稿設定 を選択。 投稿後や起動時のアカウント 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>指定行数以上を折りたたむ</title><link>http://docs.thedesk.top/settings/timeline/autofold/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/autofold/</guid><description>長文トゥートはタイムラインを占拠します。
+行数や文字数がここで設定する値を超えたとき、TheDeskはCWと同じスタイルでたたみます。
+警告文はトゥートの最初の数文字です。
+「行数」指定は、実際の表示される行数ではありません。Enterなどを押して改行した数を指します。
+を選択。 から タイムラインの設定 を選択。 指定行数以上を折りたたむ の行や文字の値を変更します。 設定 をクリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>新規通知のポップアップお知らせの表示秒数</title><link>http://docs.thedesk.top/settings/system/popup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/popup/</guid><description>タイムラインを表示しているとき、この値を0より大きく設定することで、画面左下に通知の内容を表示させられます。
+を選択。 から 環境設定 を選択。 新規通知のポップアップお知らせの表示秒数 値を変更し、 設定 を押します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>時刻表記設定</title><link>http://docs.thedesk.top/settings/timeline/format/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/format/</guid><description>種類 相対時間 絶対時間 両方表示 混合表示 絶対時間の日付以上は、現在時刻と違う値のみ表示します。
+本日中の時刻に対しては日付は表示されません。 を選択。 から タイムラインの設定 を選択。 時間表記設定 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>検索エンジン</title><link>http://docs.thedesk.top/settings/system/searchengine/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/searchengine/</guid><description>タイムラインから一発検索で使用する検索エンジンの設定。
+{q}に検索ワードが入ります。初期値はgoogle.comです。
+を選択。 から 環境設定 を選択。 検索エンジン を編集してください。保存すると他の未保存のものの値も保存されます。</description></item><item><title>添付画像の自動リサイズ</title><link>http://docs.thedesk.top/settings/post/resize/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/post/resize/</guid><description>最大の長辺ピクセルを指定します。2560x1440(px)の画像で1920pxに設定していた場合、 長辺(2560px)が1920pxに圧縮されて1920x1080(px)の画像になって投稿されます。
+JPEG、PNG以外の画像はすべてPNGになります。GIFアニメ等は変換過程で静止画になります。
+0にするとリサイズしません。
+を選択。 から 投稿設定 を選択。 添付画像の自動リサイズ 値を変更し、 設定 を押します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>独自ロケール</title><link>http://docs.thedesk.top/settings/timeline/locale/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/locale/</guid><description>詳細はマストドン日本語ウィキを参照。
+を選択。 から タイムラインの設定 を選択。 独自ロケールを使用 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>画像の高さ</title><link>http://docs.thedesk.top/settings/timeline/height/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/height/</guid><description>タイムライン上の画像の高さを設定します。
+を選択。 から タイムラインの設定 を選択。 画像の高さ の値を変更します。設定 をクリックすると他の未保存の設定を含めて全て更新・保存されます。
+fullを指定するとクロップ(切り抜き)せずにすべて表示します。タイムラインを占拠する可能性があります。</description></item><item><title>画像をリモートから取得</title><link>http://docs.thedesk.top/settings/timeline/fetchremote/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/fetchremote/</guid><description> を選択。 から タイムラインの設定 を選択。 画像をリモートから取得 のチェックを変更します。
+変更すると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>画像投稿設定</title><link>http://docs.thedesk.top/settings/post/img/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/post/img/</guid><description>通常設定する必要はないため、説明は記載しません。
+を選択。 から 投稿設定 を選択。 画像投稿設定 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>絵文字にゼロ幅スペースを使う</title><link>http://docs.thedesk.top/settings/post/zero-width/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/post/zero-width/</guid><description>カスタム絵文字の間の区切りに通常のスペース「 」を使わず、幅のないスペースを使用します。複数のカスタム絵文字を使うときなどの見栄えが良くなります。
+を選択。 から 投稿設定 を選択。 絵文字にゼロ幅スペースを使う 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>言語</title><link>http://docs.thedesk.top/settings/system/lang/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/lang/</guid><description>言語を変えられます。
+日本語 日本語(関西) 英語 Crowdin translate system български Česky Deutsch Spanish, Argentina 「Crowdin translate system」は知識のある方のみご利用ください。
+を選択。 から 環境設定 を選択。 値を変更します。</description></item><item><title>設定のインポート</title><link>http://docs.thedesk.top/settings/system/import/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/import/</guid><description>全てのデータが削除されます。
+を選択。 から 環境設定 を選択。 インポート を選びます。 読み込むファイルを指定します。 インポート形式 最新: 20.3.3現在 2.1
+拡張子
+.json5: 18.9.0以降で作成されたエクスポートデータ .thedeskconfigv2: 17.2.0~18.8.3で作成されたエクスポートデータ .thedeskconfig: 16.0.1~17.2.0で作成されたエクスポートデータ いずれも読み込み可能ですが、旧バージョンの場合インポートされる情報が減ります。
+インポートができない 一部環境では、システムダイアログが使えない等でファイルを選択できません。 その時は中身をテキストエディタやメモ帳(notepad.exe)で開いてテキストボックスに貼り付けてインポートを押してください。同じようにインポートを行います。
+旧バージョンからのインポート Usain (17.2.0)までのバージョンでエクスポートした場合、拡張子が「*.thedeskconfig」になっています。
+最新のバージョンにもインポートできますが、以下の情報のみインポートされます。
+17.2.0までのTheDeskからインポートされる情報 ログインしているアカウントの認証情報とカラー カラムの並び順とヘッダーカラー(リンク解析や読み上げは除く) テーマ マルチカラムの最低横幅 フォント/フォントサイズ 画像の高さ 「起動後や起動時のアカウント」 デフォルトの公開設定 キーボードショートカットの設定 ユーザーの強調 クライアントの強調・ミュート ワードの強調・ミュート</description></item><item><title>設定のエクスポート</title><link>http://docs.thedesk.top/settings/system/export/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/export/</guid><description>を選択。 から 環境設定 を選択。 エクスポート を選びます。 保存先を指定します。 エクスポート形式 JSON5形式で出力します。
+一部設定はエクスポートされません。
+このデータは秘密にしてください。認証情報等が含まれているため、アカウントが乗っ取られる恐れがあります。
+保存機能がOSの制約で動かない場合があります。(PWA版など)
+その時は下のテキストボックスに保存内容と同じものをテキストで表示しますので、 それをテキストエディタやメモ帳(notepad.exe)等で保存してください。
+メタ情報 エクスポートしたデータをJSON5として整形して、meta属性付近を確認してください。
+meta: { date:'2020-05-03T15:11:58.559Z', platform:'win32', thedesk:'20.3.3 (Kawaii)' }, revisons:2.1 dateは作成日時を、platformはOS(win32: Windows / linux: Linux / darwin: macOS)を、 thedeskは作成バージョンを示します。
+また、revisionsはエクスポートファイルのバージョンを示します。</description></item><item><title>読み上げの設定</title><link>http://docs.thedesk.top/settings/etc/tts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/etc/tts/</guid><description>読み上げのボリュームや速度、高さを調節できます。
+を選択。 から 読み上げの設定 を選択。 スライダーで値を変更します。 設定 をクリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>通知を開いているとき、通知新着お知らせを表示する</title><link>http://docs.thedesk.top/settings/timeline/notif/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/notif/</guid><description>標準では、通知があるとこのように表示されます。(新着お知らせ機能)
+通知カラムがあるのにこの表示が鬱陶しいという声があったため、
+この機能では、そのアカウントの通知カラムがある時、新着お知らせ機能をそのアカウントに限りオフにします。
+を選択。 から タイムラインの設定 を選択。 通知を開いているとき、通知新着お知らせを表示する 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>通知音</title><link>http://docs.thedesk.top/settings/timeline/sound/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/sound/</guid><description>「リプライ」「お気に入り」「ブースト」「フォロー」について個別に通知音を設定できます。
+「規定」
+を選択。 から タイムラインの設定 を選択。 各々の値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。 「規定」 「リプライ」「お気に入り」「ブースト」「フォロー」についてそれぞれ異なった通知音が用意されています。
+Custom 「カスタム通知音」の1～4で個別に設定できます。
+96kHz/24bitを含むFLACファイルや、WAV、MP3、MP$(AAC/M4A)などが選択できます。あらかじめ通知音に適したようにカットしてください。</description></item><item><title>長文投稿時に警告</title><link>http://docs.thedesk.top/settings/post/autofold/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/post/autofold/</guid><description>長文トゥートはタイムラインを占拠します。
+行数や文字数がここで設定する値を超えたとき、TheDeskはCWと同じスタイルでたたみます。 しかしそのような実装をしているクライアントは多くないため、迷惑を掛けないためにも事前に防ぐ方法として用意しています。
+警告文はトゥートの最初の数文字です。
+「行数」指定は、実際の表示される行数ではありません。Enterなどを押して改行した数を指します。
+を選択。 から 投稿設定 を選択。 長文投稿時に警告 の行や文字の値を変更します。 設定 をクリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>非表示設定のテキスト\(CW\)を隠す</title><link>http://docs.thedesk.top/settings/timeline/cw/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/cw/</guid><description>「はい」を強く推奨します。
+を選択。 から タイムラインの設定 を選択。 非表示設定のテキスト(CW)を隠す 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>非表示設定の画像\(NSFW\)を隠す</title><link>http://docs.thedesk.top/settings/timeline/nsfw/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/nsfw/</guid><description>「はい」を強く推奨します。
+オンのとき
+オフのとき
+同じ画像のトゥートですが、ぼかしをかけるとどんな画像かの類推はほぼ不可能になります。
+を選択。 から タイムラインの設定 を選択。 非表示設定の画像(NSFW)を隠す 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item></channel></rss>

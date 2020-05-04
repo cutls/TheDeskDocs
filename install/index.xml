@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Installs on TheDesk documentation</title><link>http://docs.thedesk.top/install/</link><description>Recent content in Installs on TheDesk documentation</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><atom:link href="http://docs.thedesk.top/install/index.xml" rel="self" type="application/rss+xml"/><item><title>Linux</title><link>http://docs.thedesk.top/install/linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/install/linux/</guid><description>https://thedesk.topにアクセス
+Downloadを押す
+Linuxを選択
+Linuxを使うような方ならこのような説明はいらないと思いますが…
+amd64以外を提供していませんが、もしその他の環境で使用したいのであれば 自分でビルドするか連絡してください。
+Chrome アイコンの周りの青い枠が消えた後TheDesk-setup.exeを選べば起動します。</description></item><item><title>macOS</title><link>http://docs.thedesk.top/install/mac/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/install/mac/</guid><description>https://thedesk.topにアクセス
+Downloadを押す
+macOSを選択
+dmg 64bitを選んでください。セキュリティ上いろいろ言われるかもしれませんが、 システム環境設定-&amp;gt;セキュリティから設定を変更して起動しましょう。
+Chrome アイコンの周りの青い枠が消えた後TheDesk-setup.exeを選べば起動します。</description></item><item><title>Windows</title><link>http://docs.thedesk.top/install/windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/install/windows/</guid><description>https://thedesk.topにアクセス
+Downloadを押す
+Windowsを選択
+よくわからない場合、インストーラーの64bitを使用してください。実行できない場合は、32bitを選択してみてください。 下の表示は無視してください。(詳細情報から実行を選択)これは安全なソフトウェアです。Microsoft Store版はMicrosoftによって認証されています。
+Edge/IE 実行を選べば起動します。 Chrome アイコンの周りの青い枠が消えた後TheDesk-setup.exeを選べば起動します。</description></item></channel></rss>

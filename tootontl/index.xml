@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TootOnTls on TheDesk documentation</title><link>http://docs.thedesk.top/tootontl/</link><description>Recent content in TootOnTls on TheDesk documentation</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><atom:link href="http://docs.thedesk.top/tootontl/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://docs.thedesk.top/tootontl/tips/afterutl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/tips/afterutl/</guid><description>ユーザータイムラインで言及を確認する トゥートしたユーザーの続きのトゥートを取得します。
+古いバージョンのMastodonでは対応していません。
+トゥート下部の を押します。 これより後のユーザーTL(言及確認) を押します。 これより後のユーザータイムラインが表示されます。</description></item><item><title>cf \#InstanceTickerを使う</title><link>http://docs.thedesk.top/tootontl/ticker/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/ticker/</guid><description>こちらを参照。</description></item><item><title>cf トゥートの削除</title><link>http://docs.thedesk.top/tootontl/delete/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/delete/</guid><description>こちらを参照。</description></item><item><title>cf トゥート時刻のスタイル</title><link>http://docs.thedesk.top/tootontl/format/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/format/</guid><description>こちらを参照。</description></item><item><title>cf 削除して再編集</title><link>http://docs.thedesk.top/tootontl/redraft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/redraft/</guid><description>こちらを参照。</description></item><item><title>このトゥートのリプライ元/先を確認</title><link>http://docs.thedesk.top/tootontl/tips/replyck/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/tips/replyck/</guid><description>トゥート下部の
+を押します。 これより前の会話 / これより後の会話 を押します。 Note これより前の会話 が、そのトゥートのリプライ先で、
+これより後の会話 が、そのトゥートにリプライしたものになります。</description></item><item><title>エアリプを確認する/このときの話題を確認する</title><link>http://docs.thedesk.top/tootontl/tips/airreply/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/tips/airreply/</guid><description>ローカル内でコミュニティを形成していると、他のインスタンスから見るとどんな話になっているかがわからないときがあります。
+いわゆるエアリプ(トゥートの返信的な内容だがリプライにはなっていないトゥート)の言及元をチェックできるかもしれません。
+もちろん、そのトゥートがホームに対するエアリプかもしれないので、必ずチェックできるわけではないです。
+トゥート下部の
+を押します。 これより前のLocal TL(エアリプソース確認) を押します。 トゥートされたアカウントのインスタンスのローカルタイムラインが表示されます。</description></item><item><title>トゥートのURLをコピー</title><link>http://docs.thedesk.top/tootontl/share/copyurl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/share/copyurl/</guid><description> トゥート右側の
+時間表示を押してください。
+URLがコピーされます。</description></item><item><title>トゥートのリンクの動画をオーバーレイ表示</title><link>http://docs.thedesk.top/tootontl/tips/pip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/tips/pip/</guid><description>トゥートの動画を展開します 下部のを押してください。
+画面左下にオーバーレイ表示されます。
+Note &amp;gt; ボタンなどで場所を変更できます。
+終了するときは × ボタンを押してください。</description></item><item><title>トゥートのリンクを解析</title><link>http://docs.thedesk.top/tootontl/tips/link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/tips/link/</guid><description>トゥート下部の を押します。 URLが存在する場合に表示されます。 情報があると 表示されます。 YouTubeやニコニコ動画はその場で再生できます。
+TwitterのツイートやPixivの投稿もその場でチェック可能です。</description></item><item><title>トゥートの埋め込みをコピー</title><link>http://docs.thedesk.top/tootontl/share/copyemb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/share/copyemb/</guid><description>トゥート下部の を押します。 下部の から、 埋め込む を押してください。 コピー内容の例
+&amp;lt;iframe src=&amp;quot;https://kirishima.cloud/@Cutls/100214436870604232/embed&amp;quot; class=&amp;quot;mastodon-embed&amp;quot; style=&amp;quot;max-width: 100%; border: 0&amp;quot; width=&amp;quot;400&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&amp;lt;script src=&amp;quot;https://kirishima.cloud/embed.js&amp;quot; async=&amp;quot;async&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;</description></item><item><title>トゥートの本文をコピー</title><link>http://docs.thedesk.top/tootontl/share/copytxt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/share/copytxt/</guid><description> トゥート左下の
+公開範囲表示(例:)を押してください。
+本文がコピーされます。
+一部不具合を含んでいます。
+絵文字周りが正常にコピーされない可能性があります。</description></item><item><title>トゥートの言及元を調べる</title><link>http://docs.thedesk.top/tootontl/tips/btck/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/tips/btck/</guid><description>ブーストに対してコメントすることは多いですが、ローカルタイムラインにブーストは流れてこないので、何について言及しているかわからないことがあります。
+この機能を使うとそれがチェックできます。
+トゥート下部の を押します。 これより前のユーザーTL(BTソース確認) を押します。 トゥートされたアカウントのタイムラインが表示されます。</description></item><item><title>トゥートをピン留め</title><link>http://docs.thedesk.top/tootontl/basic/pin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/basic/pin/</guid><description>トゥート下部の
+を押します。
+を押します。
+Note 既にピン留めされている場合はアイコンが青くなっています。
+クリックすることで解除されます。</description></item><item><title>トゥートをブックマーク</title><link>http://docs.thedesk.top/tootontl/basic/bookmark/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/basic/bookmark/</guid><description> トゥート下部の
+を押します。
+を押します。
+Note 既にブックマークされている場合はアイコンが赤くなっています。
+クリックすることで解除されます。
+GlitchまたはMastodonの最新master対応</description></item><item><title>トゥートを翻訳する</title><link>http://docs.thedesk.top/tootontl/tips/translate/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/tips/translate/</guid><description>トゥート下部の
+を押します。
+を押します。
+翻訳ソースはGoogle翻訳です。</description></item><item><title>ローカルタイムラインで言及を確認する</title><link>http://docs.thedesk.top/tootontl/tips/afterltl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/tips/afterltl/</guid><description>トゥートがローカルタイムラインでどのような反応をされているかをチェックできます。
+古いバージョンのMastodonでは対応していません。
+トゥート下部の を押します。 これより後のLocal TL(言及確認) を押します。 これより後のローカルタイムラインが表示されます。</description></item><item><title>引用する</title><link>http://docs.thedesk.top/tootontl/basic/quote/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/basic/quote/</guid><description>引用形式の設定が必要です。
+デフォルトでは表示されません。
+トゥート下部の
+を押します。
+投稿ボックスが開きます。
+引用形式 引用形式は
+トゥートのURLだけ トゥートのURL+@以降 トゥートのURL+@+本文 を選択できます。
+2.,3.は相手に通知が行きます。
+未知の(連合をなしていない)インスタンスのトゥートのURLをトゥートした場合でも連合が新たに形成されます。</description></item><item><title>投票する</title><link>http://docs.thedesk.top/tootontl/basic/poll/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/basic/poll/</guid><description>終了済みのアンケート
+投票したい選択肢を選択すると背景の色が変わります。 複数の選択肢を選べるアンケートもあります。 「投票」を押します。 結果だけ見る 「票数を隠す」設定にしていない場合は、投票する前に結果だけチラ見することができます。
+情報更新 他のインスタンスのアンケートの場合、最新の情報には仕様上なりません。</description></item><item><title>返信する</title><link>http://docs.thedesk.top/tootontl/basic/reply/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/basic/reply/</guid><description> トゥート下部の を押します。 投稿ボックスが開きます。 注意 トゥートするアカウントはそのタイムラインのアカウント固定です。他のアカウントを用いる場合 投稿範囲はそのトゥートのものに準じます。</description></item><item><title>連合タイムラインで言及を確認する</title><link>http://docs.thedesk.top/tootontl/tips/afterftl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/tips/afterftl/</guid><description>トゥートがタイムラインでどのような反応をされているかをチェックできます。広い範囲を捜索するので大変です。
+古いバージョンのMastodonでは対応していません。
+トゥート下部の を押します。 これより後の連合TL(言及確認) を押します。 これより後の連合タイムラインが表示されます。</description></item></channel></rss>

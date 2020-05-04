@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mutes on TheDesk documentation</title><link>http://docs.thedesk.top/mute/</link><description>Recent content in Mutes on TheDesk documentation</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><atom:link href="http://docs.thedesk.top/mute/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://docs.thedesk.top/mute/useremp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/mute/useremp/</guid><description>ユーザーの強調 このように強調されます。(テーマによって色は変わります。)
+強調したいユーザーのアイコンや、ブースト時の名前などをクリックしてください。
+左側の、「ユーザー強調」を押してください。
+すでに強調済みの場合はもう一度押すことで解除できます。</description></item><item><title>cf フィルターを使う</title><link>http://docs.thedesk.top/mute/filter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/mute/filter/</guid><description>こちらを参照。</description></item><item><title>クライアントのミュート</title><link>http://docs.thedesk.top/mute/climute/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/mute/climute/</guid><description>この機能は未完成です。
+[Tag: 未完成の歴史]
+viaを表示する設定をしているとき、
+にviaが表示できる場合表示します。 そのviaを押すとダイアログが出ます。
+そのダイアログで「強調」を押すとそのクライアント(via)からの投稿の背景が強調されて表示されます。
+クライアント情報は連合に流れませんので、全てのクライアントからの投稿全てを処理することはできません。
+同一サーバーでも各ユーザーがクライアント情報を流すという設定をMastodon側でしないと流れません。</description></item><item><title>クライアントの強調</title><link>http://docs.thedesk.top/mute/cliemp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/mute/cliemp/</guid><description>この機能は未完成です。
+[Tag: 未完成の歴史]
+viaを表示する設定をしているとき、
+にviaが表示できる場合表示します。
+そのviaを押すとダイアログが出ます。
+そのダイアログで「強調」を押すとそのクライアント(via)からの投稿の背景が強調されて表示されます。
+クライアント情報は連合に流れませんので、全てのクライアントからの投稿全てを処理することはできません。
+同一サーバーでも各ユーザーがクライアント情報を流すという設定をMastodon側でしないと流れません。</description></item><item><title>ワードのミュート\(非推奨\)</title><link>http://docs.thedesk.top/mute/wordmute/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/mute/wordmute/</guid><description>フィルターを使用してください。
+基本的にワードミュートと方法は一緒です。</description></item><item><title>ワードの強調</title><link>http://docs.thedesk.top/mute/wordemp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/mute/wordemp/</guid><description>「TheDesk」を強調した結果
+を選択。 から ミュート・強調の設定 を選択。 入力します。
+Enterを押して確定します。
+設定 を押します。確認メッセージ等は出ませんが追加されています。 #&amp;mdash; title: 削除する description: 削除する menu: docs: weight: 30 parent: mute を選択。 から ミュート・強調の設定 を選択。 ×を押します。
+設定 を押します。確認メッセージ等は出ませんが削除されています。</description></item></channel></rss>

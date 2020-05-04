@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Timelines on TheDesk documentation</title><link>http://docs.thedesk.top/timeline/</link><description>Recent content in Timelines on TheDesk documentation</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><atom:link href="http://docs.thedesk.top/timeline/index.xml" rel="self" type="application/rss+xml"/><item><title>cf 読み上げの設定</title><link>http://docs.thedesk.top/timeline/tts/setting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/timeline/tts/setting/</guid><description>こちらを参照。</description></item><item><title>TL上のトゥートを読み上げる</title><link>http://docs.thedesk.top/timeline/tts/tts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/timeline/tts/tts/</guid><description> カラム上部を押してください。 を押してください。 TLが再読込されて読み上げが始まります。 読み上げの設定も参照。</description></item><item><title>タイムラインの何かがおかしいとき(再読込)</title><link>http://docs.thedesk.top/timeline/edit/reload/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/timeline/edit/reload/</guid><description>ストリーミングについて ストリーミングに接続していると、更新ボタン等を押すことなくトゥートが流れてきます。
+たまにストリーミングが途切れることがあり、その時は、
+カラム上部の大きなアイコンが、
+のように赤くなります。(起動したてはすぐには接続できませんのでしばらくお待ち下さい。)
+TheDeskはストリーミングが切れた際に自動復旧機能を持っていますが、場合によっては作動しないことがあります。
+カラム上部
+を押してください。
+を押してください。
+それでも治らないときは F5等で再読込してください
+それでも治らないときは サーバーの不調を疑ってください。ブラウザとか、他のクライアントからアクセスできるかどうかを確認してください。 再起動してください。
+それでも治らないときは もう一度ログインし直してください。
+それでも治らないときは ご連絡を。</description></item><item><title>タイムラインを並べ替え</title><link>http://docs.thedesk.top/timeline/edit/sort/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/timeline/edit/sort/</guid><description> 画面下部のを押す
+ドラッグして並び替えます
+→ボタンはクリックすると該当カラムにスクロールします。
+×ボタンはクリックするとカラムが削除されます。</description></item><item><title>タイムラインを削除</title><link>http://docs.thedesk.top/timeline/edit/delete/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/timeline/edit/delete/</guid><description> カラム上部の右上
+を押してください。
+ダイアログで「はい」を選択してください。
+忠告にもある通り、メディアフィルターの設定が全てオフになります。</description></item><item><title>タイムラインを追加</title><link>http://docs.thedesk.top/timeline/edit/add/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/timeline/edit/add/</guid><description> 画面下部より「カラム追加」を選んでください。
+「アカウントを選択」で表示させたいアカウントを選択します。
+「表示するタイムライン」を選択します。
+ローカル
+ローカルタイムラインを表示します。
+ローカル(メディア)
+ローカルタイムラインの中から、画像や動画があるファイルだけを表示します。
+ホーム
+ホームタイムラインを表示します。
+連合
+連合タイムラインを表示します。
+連合(メディア)
+連合タイムラインの中から、画像や動画があるファイルだけを表示します。
+ダイレクトメッセージ
+ダイレクトメッセージをタイムライン形式で表示します。
+統合(ローカルとホーム)
+ローカルタイムラインとホームタイムラインのトゥートを1つのタイムラインにまとめて表示します。
+フィルターはいずれかのタイムラインに適用されているものが、どちらのタイムライン由来のトゥートであっても適用されます。 統合(ローカルとブースト・リプライ)
+ローカルタイムラインとホームタイムライン内のブーストとリプライのトゥートを1つのタイムラインにまとめて表示します。
+フィルターはいずれかのタイムラインに適用されているものが、どちらのタイムライン由来のトゥートであっても適用されます。 通知
+通知を表示します。通知は最新15件以上の読み込みはできません。
+ブックマーク
+ブックマーク一覧を表示します。ストリーミングはありませんが、TheDesk上でブックマーク操作を行うと自動で更新されます。
+更新するためには、カラムヘッダのアイコンをクリックします。</description></item><item><title>リストに入っているユーザーを表示</title><link>http://docs.thedesk.top/timeline/list/showuser/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/timeline/list/showuser/</guid><description> 画面下部より「リスト」を選んでください。
+アカウントを選んで 一覧 を押してください。
+「テスト」は一例です。
+ユーザー一覧 を押してください。
+表示されます。</description></item><item><title>リストのタイムラインを表示</title><link>http://docs.thedesk.top/timeline/list/show/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/timeline/list/show/</guid><description> 画面下部より「リスト」を選んでください。
+アカウントを選んで 一覧 を押してください。
+「テスト」は一例です。
+表示 を押してください。</description></item><item><title>リストの新規作成</title><link>http://docs.thedesk.top/timeline/list/add/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/timeline/list/add/</guid><description> 画面下部より「リスト」を選んでください。
+アカウントを選んで 名前 欄にリストの名前を入力してください。
+新規作成 を押してください。作成が完了すると自動でリストの一覧が更新されます。</description></item></channel></rss>

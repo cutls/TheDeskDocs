@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TheDeskへようこそ on TheDesk documentation</title><link>http://docs.thedesk.top/</link><description>Recent content in TheDeskへようこそ on TheDesk documentation</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><atom:link href="http://docs.thedesk.top/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://docs.thedesk.top/mute/useremp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/mute/useremp/</guid><description>ユーザーの強調 このように強調されます。(テーマによって色は変わります。)
+強調したいユーザーのアイコンや、ブースト時の名前などをクリックしてください。
+左側の、「ユーザー強調」を押してください。
+すでに強調済みの場合はもう一度押すことで解除できます。</description></item><item><title/><link>http://docs.thedesk.top/settings/system/deck/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/deck/</guid><description>TweetDeck限定の最低横幅 TweetDeck専用の横幅を指定できます
+を選択。 から 環境設定 を選択。 TweetDeck限定の最低横幅値を変更し、 設定 を押します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title/><link>http://docs.thedesk.top/settings/system/theme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/theme/</guid><description>テーマの変更 色合いを5色から変えられます。
+を選択。 から 環境設定 を選択。 テーマの変更 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title/><link>http://docs.thedesk.top/settings/timeline/ticker/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/ticker/</guid><description>トゥートした人の所属インスタンスをわかりやすく彩ります(自インスタンス以外のトゥート向け)。#InstanceTickerについてCopyright 2018 weepjp, kyori19. を選択。 から タイムラインの設定 を選択。 #InstanceTickerを使う のチェックを変更します。
+変更すると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title/><link>http://docs.thedesk.top/tool/trivia/scs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tool/trivia/scs/</guid><description>スクショをすぐにトゥート Windowsのみ
+スクリーンショットを取りたいところでWindowsキー+Shift+Sを押します。 範囲を選択します。 TheDeskのトゥートボックスに文字を入れられる状態にして、 Ctrl+Vを押す 簡単です。</description></item><item><title/><link>http://docs.thedesk.top/tootontl/tips/afterutl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/tips/afterutl/</guid><description>ユーザータイムラインで言及を確認する トゥートしたユーザーの続きのトゥートを取得します。
+古いバージョンのMastodonでは対応していません。
+トゥート下部の を押します。 これより後のユーザーTL(言及確認) を押します。 これより後のユーザータイムラインが表示されます。</description></item><item><title/><link>http://docs.thedesk.top/user/basic/auth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/basic/auth/</guid><description>フォローリクエストを許可する どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。 上のの中から、
+を選択します。</description></item><item><title/><link>http://docs.thedesk.top/user/basic/back/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/basic/back/</guid><description>1つ前のユーザーデータ プロフィール内で他のアカウントを開いた場合に1つ前のプロフィールを再表示できます。
+画面下部
+の、
+を押してください。</description></item><item><title/><link>http://docs.thedesk.top/user/basic/frc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/basic/frc/</guid><description>フォロー推奨リストを表示する 過去のリプライ、お気に入り登録、ブースト等を点数化し、関わりがあるのにフォローしていないユーザーを表示します。
+マストドン標準の機能ですが、マストドンのWeb内では見ることができません。
+どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。 上のの中から、
+を選択します。</description></item><item><title>cd 「ナノ」モード</title><link>http://docs.thedesk.top/tool/util/nano/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tool/util/nano/</guid><description>こちらを参照。</description></item><item><title>cd よく使うタグ</title><link>http://docs.thedesk.top/tool/util/tag/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tool/util/tag/</guid><description>こちらを参照。</description></item><item><title>cd フォントとそのサイズを変える</title><link>http://docs.thedesk.top/tool/trivia/font/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tool/trivia/font/</guid><description>こちらを参照。</description></item><item><title>cd メインアカウントを設定する</title><link>http://docs.thedesk.top/tool/trivia/main/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tool/trivia/main/</guid><description>こちらを参照。</description></item><item><title>cd 一発文字入力ショートカット</title><link>http://docs.thedesk.top/tool/trivia/ksc2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tool/trivia/ksc2/</guid><description>こちらを参照。</description></item><item><title>cd 実況する</title><link>http://docs.thedesk.top/tool/util/tagstr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tool/util/tagstr/</guid><description>こちらを参照。</description></item><item><title>cd 投稿範囲をアカウントによって変える</title><link>http://docs.thedesk.top/tool/trivia/privacy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tool/trivia/privacy/</guid><description>こちらを参照。</description></item><item><title>cd 認証していないインスタンスのタイムラインを見る</title><link>http://docs.thedesk.top/tool/util/glance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tool/util/glance/</guid><description>こちらを参照。</description></item><item><title>cf \#InstanceTickerを使う</title><link>http://docs.thedesk.top/tootontl/ticker/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/ticker/</guid><description>こちらを参照。</description></item><item><title>cf NowPlayingする</title><link>http://docs.thedesk.top/tool/util/nowplaying/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tool/util/nowplaying/</guid><description>こちらを参照。</description></item><item><title>cf アカウントの追加</title><link>http://docs.thedesk.top/basic/add/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/basic/add/</guid><description>こちらを参照。</description></item><item><title>cf セカンダリートゥートボタン</title><link>http://docs.thedesk.top/post/secondary/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/secondary/</guid><description>こちらを参照。</description></item><item><title>cf タイムラインを並べかえ</title><link>http://docs.thedesk.top/menu/sort/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/menu/sort/</guid><description>こちらを参照。</description></item><item><title>cf タイムラインを表示</title><link>http://docs.thedesk.top/basic/tl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/basic/tl/</guid><description>こちらを参照。</description></item><item><title>cf タイムラインを追加</title><link>http://docs.thedesk.top/menu/add/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/menu/add/</guid><description>こちらを参照。</description></item><item><title>cf トゥートの削除</title><link>http://docs.thedesk.top/tootontl/delete/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/delete/</guid><description>こちらを参照。</description></item><item><title>cf トゥートをピン留め</title><link>http://docs.thedesk.top/post/pin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/pin/</guid><description>こちらを参照。</description></item><item><title>cf トゥート時刻のスタイル</title><link>http://docs.thedesk.top/tootontl/format/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/format/</guid><description>こちらを参照。</description></item><item><title>cf フィルター</title><link>http://docs.thedesk.top/menu/filter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/menu/filter/</guid><description>こちらを参照。</description></item><item><title>cf フィルターを使う</title><link>http://docs.thedesk.top/mute/filter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/mute/filter/</guid><description>こちらを参照。</description></item><item><title>cf フォローする</title><link>http://docs.thedesk.top/basic/follow/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/basic/follow/</guid><description>こちらを参照。</description></item><item><title>cf ユーザー強調</title><link>http://docs.thedesk.top/user/hisorherprof/useremp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/hisorherprof/useremp/</guid><description>こちらを参照。</description></item><item><title>cf リストの新規作成</title><link>http://docs.thedesk.top/menu/list/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/menu/list/</guid><description>こちらを参照。</description></item><item><title>cf 削除して再編集</title><link>http://docs.thedesk.top/tootontl/redraft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/redraft/</guid><description>こちらを参照。</description></item><item><title>cf 読み上げの設定</title><link>http://docs.thedesk.top/timeline/tts/setting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/timeline/tts/setting/</guid><description>こちらを参照。</description></item><item><title>CWの設定\(デフォルトの警告文/標準でCWを設定\)</title><link>http://docs.thedesk.top/settings/post/cw/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/post/cw/</guid><description>デフォルトの警告文 この機能は未完成です。 文字数カウントに難があります。
+を選択。 から 投稿設定 を選択。 デフォルトの警告文 の値を変更します。 設定 をクリックすると他の未保存の設定を含めて全て更新・保存されます。 [Tag: 未完成の歴史]
+標準でCWを設定 を選択。 から 投稿設定 を選択。 標準でCWを設定 の値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>Linux</title><link>http://docs.thedesk.top/install/linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/install/linux/</guid><description>https://thedesk.topにアクセス
+Downloadを押す
+Linuxを選択
+Linuxを使うような方ならこのような説明はいらないと思いますが…
+amd64以外を提供していませんが、もしその他の環境で使用したいのであれば 自分でビルドするか連絡してください。
+Chrome アイコンの周りの青い枠が消えた後TheDesk-setup.exeを選べば起動します。</description></item><item><title>macOS</title><link>http://docs.thedesk.top/install/mac/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/install/mac/</guid><description>https://thedesk.topにアクセス
+Downloadを押す
+macOSを選択
+dmg 64bitを選んでください。セキュリティ上いろいろ言われるかもしれませんが、 システム環境設定-&amp;gt;セキュリティから設定を変更して起動しましょう。
+Chrome アイコンの周りの青い枠が消えた後TheDesk-setup.exeを選べば起動します。</description></item><item><title>Misskeyアカウントの追加</title><link>http://docs.thedesk.top/account/misskey/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/account/misskey/</guid><description/></item><item><title>NowPlaying (macOS)</title><link>http://docs.thedesk.top/post/plus/itunes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/plus/itunes/</guid><description>macOS iTunesのNowPlayingです。macOS 10.15 Catalina以降の「ミュージック」にも対応しています。
+投稿画面下部の
+から「NowPlaying」を押してください。
+細かい投稿フォーマットは、SpotifyとNowPlayingの設定に記載されています。</description></item><item><title>NowPlaying (Spotify)</title><link>http://docs.thedesk.top/post/plus/spotify/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/plus/spotify/</guid><description>注意 SpotifyのNowPlayingのためにはアカウント連携が必要です。
+SpotifyとNowPlayingの設定
+Spotify 投稿画面下部の
+から「NowPlaying(Spotify)」を押してください。
+細かい投稿フォーマットは、SpotifyとNowPlayingの設定に記載されています。</description></item><item><title>RAM使用量を出しておく</title><link>http://docs.thedesk.top/tool/tips/ram/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tool/tips/ram/</guid><description>ディスプレイサイズが1300px以上の場合のみ有効です
+画面下部のを押します。 を押します。 を押します。</description></item><item><title>SpotifyとNowPlayingの設定(NowPlaying on WIndows/macOS)</title><link>http://docs.thedesk.top/settings/etc/nowplaying/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/etc/nowplaying/</guid><description>種類(Windows) AIMP iTunes MediaMonkey Winamp WMP WLM CAD foobar2000, MusicBee,J. River Media Center, Media JukeboxはCADを、
+Last.fm Client, TTPlayer, OpenPandora, ZuneはWLMを選んでください。
+ただし、foobar2000はfoo_cad pluginが必要です。
+MusicBeeもCADを有効にする必要があります。
+テンプレートの編集 説明通り入力して、 設定 を押して保存してください。
+標準の、
+#NowPlaying {song} / {album} / {artist}
+{url}
+の場合、
+#NowPlaying 庭師KING / 救済の技法 / Susumu Hirasawa
+と入力されます。(URLは入りません)
+その他macOSのiTunesについては使用できるタグがあります。</description></item><item><title>SpotifyとNowPlayingの設定(Spotify)</title><link>http://docs.thedesk.top/settings/etc/spotify/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/etc/spotify/</guid><description>Spotifyアカウントとの連携 を選択。 から SpotifyとNowPlayingの設定 を選択。 Windowsの場合、「接続」を押した後一旦アプリが閉じ、
+が表示されます。
+その他のOSの場合、認証キーが表示されるので入力します。 テンプレートの編集 説明通り入力して、 設定 を押して保存してください。
+標準の、
+#NowPlaying {song} / {album} / {artist}
+{url}
+の場合、
+#NowPlaying 庭師KING / 救済の技法 / Susumu Hirasawa
+https://open.spotify.com/track/1GOFmfWEXFnOG52PhnIuJG
+と入力されます。
+アルバムワークを添付する を選択。 から SpotifyとNowPlayingの設定 を選択。 アルバムワークを添付する 値を変更します。クリックすると更新・保存されます。 アルバムアートワークが無い時補完する(macOS) 上の「アルバムアートワークを添付する」がはいのとき限定。
+macOSでNowPlayingしているとき、もしアルバムアートワークがない場合、Apple MusicのAPIを使用して アルバムアートワークを添付します。もしかしたら適当でない画像が添付されるかもしれません。また、Apple Musicにない曲は添付できません。
+これをはいに設定しておくと、アルバム情報が楽曲に無い場合もApple MusicのAPIで補完します。</description></item><item><title>Spotifyの情報を出しておく</title><link>http://docs.thedesk.top/tool/tips/spotify/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tool/tips/spotify/</guid><description>Spotifyの曲情報などを表示します。 ディスプレイサイズが1300px以上の場合のみ有効です
+画面下部のを押します。 を押します。 を押します。
+曲を変更したときは左の再読込ボタンを押してください。
+TheDeskは最後まで曲が再生される前提の挙動をします。</description></item><item><title>TL上のトゥートを読み上げる</title><link>http://docs.thedesk.top/timeline/tts/tts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/timeline/tts/tts/</guid><description> カラム上部を押してください。 を押してください。 TLが再読込されて読み上げが始まります。 読み上げの設定も参照。</description></item><item><title>Twitterも見る</title><link>http://docs.thedesk.top/tool/util/twitter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tool/util/twitter/</guid><description>画面下部のを押します。
+「アカウントを選択」で「Twitter」を選択します。
+TweetDeck使用時にTheDeskのキーボードショートカットが動いてしまうときは、 カラム上部の「WebView優先」にチェックを入れてください。
+あとは自己責任です</description></item><item><title>viaを表示する</title><link>http://docs.thedesk.top/settings/timeline/via/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/via/</guid><description>設定に関わらず、トゥート詳細画面で見ることができます。
+「はい」のするとタイムライン上ですぐチェックできるようになりますが、邪魔になるかもしれません。
+を選択。 から タイムラインの設定 を選択。 viaを表示する 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>Windows</title><link>http://docs.thedesk.top/install/windows/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/install/windows/</guid><description>https://thedesk.topにアクセス
+Downloadを押す
+Windowsを選択
+よくわからない場合、インストーラーの64bitを使用してください。実行できない場合は、32bitを選択してみてください。 下の表示は無視してください。(詳細情報から実行を選択)これは安全なソフトウェアです。Microsoft Store版はMicrosoftによって認証されています。
+Edge/IE 実行を選べば起動します。 Chrome アイコンの周りの青い枠が消えた後TheDesk-setup.exeを選べば起動します。</description></item><item><title>お気に入り一覧を見る</title><link>http://docs.thedesk.top/user/myprof/fav/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/myprof/fav/</guid><description>どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。
+上のの中から、
+を選択します。
+Note Mastodonは他のユーザーのお気に入りを見ることはできません。</description></item><item><title>このトゥートのリプライ元/先を確認</title><link>http://docs.thedesk.top/tootontl/tips/replyck/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/tips/replyck/</guid><description>トゥート下部の
+を押します。 これより前の会話 / これより後の会話 を押します。 Note これより前の会話 が、そのトゥートのリプライ先で、
+これより後の会話 が、そのトゥートにリプライしたものになります。</description></item><item><title>よく使うタグ</title><link>http://docs.thedesk.top/post/plus/tag/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/plus/tag/</guid><description>登録 タグをクリックします。 「Pin」で登録できます。 削除 トゥートボックス下部のMy Tagsから対象のタグを選択。
+「削除」で削除できます。</description></item><item><title>アイコンのアニメーションを再生する</title><link>http://docs.thedesk.top/settings/timeline/gif/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/gif/</guid><description>GIFアニメーションアイコンは楽しいですが、ちらつきやパフォーマンス低下などの弊害もあるのでオフにすることができます。
+を選択。 から タイムラインの設定 を選択。 アイコンのアニメーションを再生する 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>アカウントの削除</title><link>http://docs.thedesk.top/account/remove/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/account/remove/</guid><description>を選択。 消したいアカウントの
+の 削除 を押す。 確認ダイアログが出ます。</description></item><item><title>アカウントの追加\(Mastodon\)</title><link>http://docs.thedesk.top/account/add/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/account/add/</guid><description>を選択
+「アカウントを追加」に好きなインスタンスの URL を入力
+@TheDeskTest@mstdn.jp にログインする場合、mstdn.jp と入力します。
+コードセットアップにチェックが入っていない場合、チェックしてください。
+Misskey の場合は Misskey としてログインにチェックを入れてください。
+Mastodonの場合
+「承認」してください。 PleromaやMisskeyだと画面が異なります。 以下MastodonやPleromaのみ
+コードをコピーして、
+にペーストして「Auth」を押してください。
+以下Misskeyのみ
+Misskeyの場合、ログイン後はTheDeskに戻って「Auth」を押してください。
+すでにコードが入力されています。
+アクセストークンでログインする
+「コードを入力」の代わりにアクセストークンを入力することで(Misskey, Dolphinの場合はiトークン)アカウント追加もできます。
+「アクセストークンを用いたセットアップ」を利用してください。</description></item><item><title>アカウントカラーを変更</title><link>http://docs.thedesk.top/account/color/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/account/color/</guid><description>アカウントカラーが適用される場所 この色に設定したとします。
+タイムライン トゥート時 このように適用されます。
+を選択。 アカウントの
+の アカウントカラーを選択 から好きな色を選びます。 変更されました。</description></item><item><title>アクションボタンとしてブックマークを表示</title><link>http://docs.thedesk.top/settings/timeline/bookmark/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/bookmark/</guid><description>タイムラインの「お気に入り登録」の右側に「ブックマーク」ボタンを置くかどうか
+を選択。 から タイムラインの設定 を選択。 アクションボタンとしてブックマークを表示 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>アクションメニューを非表示</title><link>http://docs.thedesk.top/settings/timeline/action/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/action/</guid><description> 標準
+変更した場合(マウスオーバー/クリック)
+このように下のボタンが隠れます。マウスオーバーまたはクリックで表示されます。
+トゥートのどこを押しても隠れるので、お気に入り登録等を押したときも一緒に隠れます。 を選択。 から タイムラインの設定 を選択。 アクションメニューを非表示 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>アンケートを投稿</title><link>http://docs.thedesk.top/post/basic/poll/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/basic/poll/</guid><description> 投稿画面下部の
+からアンケートを選択 「アンケートを使用しない」をクリックして「Mastodon」を選択 選択肢1,2は必須、3,4は任意です。
+「複数選択を許可」や「投票するまで票数を隠す」はお好みでチェックしてください。
+最後の入力欄に終了期限を入れます。5分以上の値を設定してください。 アンケートを投稿しないときは、一番上の選択ボックスで「使用しない」を選択してください。
+Mastodon 2.8.0より対応</description></item><item><title>インスタンスの情報を見る</title><link>http://docs.thedesk.top/account/info/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/account/info/</guid><description> を選択。 情報を見インスタンスにログインしているアカウントの
+の インスタンス情報 を押す。 画面最下部に表示されます。
+一部情報は instances.social より取得しています。</description></item><item><title>ウィンドウのフレーム</title><link>http://docs.thedesk.top/settings/system/frame/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/frame/</guid><description>タイトルバーのデザインが変わります。
+フレームあり
+Windows
+フレームなし
+Windows
+ウィンドウのフレームの有無も切り替わります。
+を選択。 から 環境設定 を選択。 ウィンドウのフレーム 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>エアリプを確認する/このときの話題を確認する</title><link>http://docs.thedesk.top/tootontl/tips/airreply/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/tips/airreply/</guid><description>ローカル内でコミュニティを形成していると、他のインスタンスから見るとどんな話になっているかがわからないときがあります。
+いわゆるエアリプ(トゥートの返信的な内容だがリプライにはなっていないトゥート)の言及元をチェックできるかもしれません。
+もちろん、そのトゥートがホームに対するエアリプかもしれないので、必ずチェックできるわけではないです。
+トゥート下部の
+を押します。 これより前のLocal TL(エアリプソース確認) を押します。 トゥートされたアカウントのインスタンスのローカルタイムラインが表示されます。</description></item><item><title>キーボードショートカットの設定</title><link>http://docs.thedesk.top/settings/etc/ksc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/etc/ksc/</guid><description>簡単文字入力 トゥートボックスに入力している際、Ctrl+Shift+数字ですぐに設定した文字列を挿入できます。
+絵文字などを登録しておくと便利です。
+を選択。 から キーボードショートカットの設定 を選択。 値を変更します。 設定 をクリックすると全て更新・保存されます。</description></item><item><title>キーボードショートカットを使う</title><link>http://docs.thedesk.top/tool/trivia/ksc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tool/trivia/ksc/</guid><description>覚えておくと便利なキーボードショートカット 全キーボードショートカットの一覧は、設定の下の方にあります。
+N: トゥートボックス表示 Ctrl+Enter: トゥートする Ctrl+E: 全ての通知を既読にする。(全ての通知についてはこちら ) Ctrl+&amp;lt;数字&amp;gt;: その&amp;lt;数字&amp;gt;番目のタイムラインにジャンプスクロール</description></item><item><title>クライアントのミュート</title><link>http://docs.thedesk.top/mute/climute/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/mute/climute/</guid><description>この機能は未完成です。
+[Tag: 未完成の歴史]
+viaを表示する設定をしているとき、
+にviaが表示できる場合表示します。 そのviaを押すとダイアログが出ます。
+そのダイアログで「強調」を押すとそのクライアント(via)からの投稿の背景が強調されて表示されます。
+クライアント情報は連合に流れませんので、全てのクライアントからの投稿全てを処理することはできません。
+同一サーバーでも各ユーザーがクライアント情報を流すという設定をMastodon側でしないと流れません。</description></item><item><title>クライアントの強調</title><link>http://docs.thedesk.top/mute/cliemp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/mute/cliemp/</guid><description>この機能は未完成です。
+[Tag: 未完成の歴史]
+viaを表示する設定をしているとき、
+にviaが表示できる場合表示します。
+そのviaを押すとダイアログが出ます。
+そのダイアログで「強調」を押すとそのクライアント(via)からの投稿の背景が強調されて表示されます。
+クライアント情報は連合に流れませんので、全てのクライアントからの投稿全てを処理することはできません。
+同一サーバーでも各ユーザーがクライアント情報を流すという設定をMastodon側でしないと流れません。</description></item><item><title>スタンプ機能</title><link>http://docs.thedesk.top/post/plus/stamp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/plus/stamp/</guid><description>スタンプ機能を使用した画像。右下に自分のacct(Cutls@cutls.com)が表示されます。 色は背景色に応じて黒/白が切り替わります。
+下部のスタンプ: Offを選択してOnにします。
+アップロードします。 必ずスタンプをOnにしてからアップロードしてください。
+投稿毎にOffに戻ります。</description></item><item><title>セカンダリートゥートボタン</title><link>http://docs.thedesk.top/settings/post/secondary/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/post/secondary/</guid><description>一発で未収載や非公開のトゥートを投稿できるボタンです。
+を選択。 から 投稿設定 を選択。 セカンダリートゥートボタン 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>タイムラインのアニメーション</title><link>http://docs.thedesk.top/settings/timeline/anime/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/anime/</guid><description>アイコンのGIFアニメーションの設定とは異なります。
+標準ではタイムラインのトゥートを表示したり、カラムを表示するときにアニメーションします。
+ここではこの2種のアニメーションのみについて変更できます。
+を選択。 から タイムラインの設定 を選択。 タイムラインのアニメーション 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>タイムラインの何かがおかしいとき(再読込)</title><link>http://docs.thedesk.top/timeline/edit/reload/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/timeline/edit/reload/</guid><description>ストリーミングについて ストリーミングに接続していると、更新ボタン等を押すことなくトゥートが流れてきます。
+たまにストリーミングが途切れることがあり、その時は、
+カラム上部の大きなアイコンが、
+のように赤くなります。(起動したてはすぐには接続できませんのでしばらくお待ち下さい。)
+TheDeskはストリーミングが切れた際に自動復旧機能を持っていますが、場合によっては作動しないことがあります。
+カラム上部
+を押してください。
+を押してください。
+それでも治らないときは F5等で再読込してください
+それでも治らないときは サーバーの不調を疑ってください。ブラウザとか、他のクライアントからアクセスできるかどうかを確認してください。 再起動してください。
+それでも治らないときは もう一度ログインし直してください。
+それでも治らないときは ご連絡を。</description></item><item><title>タイムラインを並べ替え</title><link>http://docs.thedesk.top/timeline/edit/sort/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/timeline/edit/sort/</guid><description> 画面下部のを押す
+ドラッグして並び替えます
+→ボタンはクリックすると該当カラムにスクロールします。
+×ボタンはクリックするとカラムが削除されます。</description></item><item><title>タイムラインを削除</title><link>http://docs.thedesk.top/timeline/edit/delete/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/timeline/edit/delete/</guid><description> カラム上部の右上
+を押してください。
+ダイアログで「はい」を選択してください。
+忠告にもある通り、メディアフィルターの設定が全てオフになります。</description></item><item><title>タイムラインを追加</title><link>http://docs.thedesk.top/timeline/edit/add/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/timeline/edit/add/</guid><description> 画面下部より「カラム追加」を選んでください。
+「アカウントを選択」で表示させたいアカウントを選択します。
+「表示するタイムライン」を選択します。
+ローカル
+ローカルタイムラインを表示します。
+ローカル(メディア)
+ローカルタイムラインの中から、画像や動画があるファイルだけを表示します。
+ホーム
+ホームタイムラインを表示します。
+連合
+連合タイムラインを表示します。
+連合(メディア)
+連合タイムラインの中から、画像や動画があるファイルだけを表示します。
+ダイレクトメッセージ
+ダイレクトメッセージをタイムライン形式で表示します。
+統合(ローカルとホーム)
+ローカルタイムラインとホームタイムラインのトゥートを1つのタイムラインにまとめて表示します。
+フィルターはいずれかのタイムラインに適用されているものが、どちらのタイムライン由来のトゥートであっても適用されます。 統合(ローカルとブースト・リプライ)
+ローカルタイムラインとホームタイムライン内のブーストとリプライのトゥートを1つのタイムラインにまとめて表示します。
+フィルターはいずれかのタイムラインに適用されているものが、どちらのタイムライン由来のトゥートであっても適用されます。 通知
+通知を表示します。通知は最新15件以上の読み込みはできません。
+ブックマーク
+ブックマーク一覧を表示します。ストリーミングはありませんが、TheDesk上でブックマーク操作を行うと自動で更新されます。
+更新するためには、カラムヘッダのアイコンをクリックします。</description></item><item><title>タグタイムラインの表示範囲</title><link>http://docs.thedesk.top/settings/timeline/tag/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/tag/</guid><description>既定「接続しているインスタンス」では連合タイムラインからタグのついたトゥートを拾います。
+mstdn.jpのタグタイムラインで「検索対象のインスタンスのみ」に設定していると、タグのついた、mstdn.jpからのトゥートのみ表示されます。
+を選択。 から タイムラインの設定 を選択。 タグタイムラインの表示範囲 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>テーマの削除</title><link>http://docs.thedesk.top/settings/theme/delete/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/theme/delete/</guid><description> を選択。 から テーマの設定 を選択。 「テーマの選択」の下の選択ボックスから使用したいテーマを選びます。 削除を押します。</description></item><item><title>テーマの変更</title><link>http://docs.thedesk.top/settings/theme/select/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/theme/select/</guid><description>デフォルトのテーマから選ぶ 色合いを5色から変えられます。
+を選択。 から テーマの設定 を選択。 テーマの選択 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。 カスタムテーマから選ぶ 「テーマの選択」の下の選択ボックスから使用したいテーマを選び、上の選択ボックスの「Custom」を選んでください。</description></item><item><title>テーマをインポート</title><link>http://docs.thedesk.top/settings/theme/import/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/theme/import/</guid><description>を選択。 から テーマの設定 を選択。 「カスタムテーマのインポート」のところに貼り付けて、「インポート」を押してください。 JSONとJSON5の形式に対応します。
+テーマインポートについて</description></item><item><title>テーマを作る</title><link>http://docs.thedesk.top/settings/theme/create/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/theme/create/</guid><description>を選択。 から テーマの設定 を選択。 変更をクリックします。 名前 名前です。様々なところで表示されます。
+説明 省略可能です。必要な時に書いてください。
+色の系統 互換性維持のための設定です。好みで選択してください。テーマに影響はありません
+Primary 背景と区別する必要があるものの色として使われます。
+Secondary 背景色です。
+Text 文字色です。
+Accent ブーストの背景色など、Primaryと区別する必要があるものに使われます。</description></item><item><title>ディレクトリ</title><link>http://docs.thedesk.top/menu/directory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/menu/directory/</guid><description>ユーザーの探索ツールです。一定のレコメンデーションフェアネスを備えています。
+画面下部より「ディレクトリ」を選んでください。 アカウントを選択していろいろ見てみましょう。</description></item><item><title>デフォルトの保存先</title><link>http://docs.thedesk.top/settings/system/save/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/save/</guid><description>画像ダウンロードの保存先が指定できます。デフォルトはPictures/TheDeskです。
+を選択。 から 環境設定 を選択。 変更 をクリックし、フォルダを選択します。</description></item><item><title>デフォルトの公開設定</title><link>http://docs.thedesk.top/settings/post/privacy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/post/privacy/</guid><description>前半4つ(公開(Public)~ダイレクト(Direct))は、 全てのアカウントに適用されます。
+後半2つはインスタンスごとです。
+「マストドンアカウントの既定値」とは、マストドン公式の設定上の
+「投稿の公開範囲」で指定した値です。
+この値はアカウントから「情報更新」を押さないと適用されない場合があります。
+を選択。 から 投稿設定 を選択。 デフォルトの公開設定 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>トゥートする</title><link>http://docs.thedesk.top/basic/account/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/basic/account/</guid><description> これをクリックするとトゥートボックスが表示されます。
+トゥートボックスは固定(表示しっぱなし)することができます。詳しくは投稿ボックスの挙動を参照
+トゥートボックスは画面の左端に持ってくる事ができます。詳しくはトゥートボックスの左右入れ替えを参照。
+投稿ボックス
+現在選択されているアカウントのアイコンです。クリックしてこのアイコンのプロフィールを表示します。
+トゥートするアカウントです。クリックして切り替えられます。
+ここに内容を入力します。右下は文字数カウントです。
+左から順番に
+NSFWの設定(画像を隠します) 公開範囲の設定 CW(コンテントワーニング) クリックして警告文を入力してください。
+常に表示させておくことができます。詳しくはデフォルトの警告文/標準でCWを設定を参照
+文章を常に固定しておくことができます。詳しくはデフォルトの警告文/標準でCWを設定を参照
+ファイルの添付 画面内どこにでもドラッグアンドドロップすることで添付できます。 絵文字を挿入 その他 Adobeフォトエディタ NowPlaying(Spotify) NowPlaying 時間指定投稿 アンケート トゥートボックスのクリア(添付ファイル等もクリアされます) トゥートを押して投稿できます。</description></item><item><title>トゥートのURLをコピー</title><link>http://docs.thedesk.top/tootontl/share/copyurl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/share/copyurl/</guid><description> トゥート右側の
+時間表示を押してください。
+URLがコピーされます。</description></item><item><title>トゥートのリンクの動画をオーバーレイ表示</title><link>http://docs.thedesk.top/tootontl/tips/pip/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/tips/pip/</guid><description>トゥートの動画を展開します 下部のを押してください。
+画面左下にオーバーレイ表示されます。
+Note &amp;gt; ボタンなどで場所を変更できます。
+終了するときは × ボタンを押してください。</description></item><item><title>トゥートのリンクを解析</title><link>http://docs.thedesk.top/tootontl/tips/link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/tips/link/</guid><description>トゥート下部の を押します。 URLが存在する場合に表示されます。 情報があると 表示されます。 YouTubeやニコニコ動画はその場で再生できます。
+TwitterのツイートやPixivの投稿もその場でチェック可能です。</description></item><item><title>トゥートの埋め込みをコピー</title><link>http://docs.thedesk.top/tootontl/share/copyemb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/share/copyemb/</guid><description>トゥート下部の を押します。 下部の から、 埋め込む を押してください。 コピー内容の例
+&amp;lt;iframe src=&amp;quot;https://kirishima.cloud/@Cutls/100214436870604232/embed&amp;quot; class=&amp;quot;mastodon-embed&amp;quot; style=&amp;quot;max-width: 100%; border: 0&amp;quot; width=&amp;quot;400&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&amp;lt;script src=&amp;quot;https://kirishima.cloud/embed.js&amp;quot; async=&amp;quot;async&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;</description></item><item><title>トゥートの本文をコピー</title><link>http://docs.thedesk.top/tootontl/share/copytxt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/share/copytxt/</guid><description> トゥート左下の
+公開範囲表示(例:)を押してください。
+本文がコピーされます。
+一部不具合を含んでいます。
+絵文字周りが正常にコピーされない可能性があります。</description></item><item><title>トゥートの言及元を調べる</title><link>http://docs.thedesk.top/tootontl/tips/btck/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/tips/btck/</guid><description>ブーストに対してコメントすることは多いですが、ローカルタイムラインにブーストは流れてこないので、何について言及しているかわからないことがあります。
+この機能を使うとそれがチェックできます。
+トゥート下部の を押します。 これより前のユーザーTL(BTソース確認) を押します。 トゥートされたアカウントのタイムラインが表示されます。</description></item><item><title>トゥートをピン留め</title><link>http://docs.thedesk.top/tootontl/basic/pin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/basic/pin/</guid><description>トゥート下部の
+を押します。
+を押します。
+Note 既にピン留めされている場合はアイコンが青くなっています。
+クリックすることで解除されます。</description></item><item><title>トゥートをブックマーク</title><link>http://docs.thedesk.top/tootontl/basic/bookmark/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/basic/bookmark/</guid><description> トゥート下部の
+を押します。
+を押します。
+Note 既にブックマークされている場合はアイコンが赤くなっています。
+クリックすることで解除されます。
+GlitchまたはMastodonの最新master対応</description></item><item><title>トゥートを翻訳する</title><link>http://docs.thedesk.top/tootontl/tips/translate/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/tips/translate/</guid><description>トゥート下部の
+を押します。
+を押します。
+翻訳ソースはGoogle翻訳です。</description></item><item><title>トゥート欄入れ替え</title><link>http://docs.thedesk.top/tool/util/reverse/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tool/util/reverse/</guid><description>トゥートボックスは画面の左端に持ってくる事ができます。
+画面下部より「トゥートボタンの左右入れ替え」を選んでください。</description></item><item><title>ドメインブロックリストを見る</title><link>http://docs.thedesk.top/user/myprof/domblock/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/myprof/domblock/</guid><description> この機能は未完成です。
+どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。
+上のの中から、
+を選択します。
+[Tag: 未完成の歴史]</description></item><item><title>ネイティブ通知</title><link>http://docs.thedesk.top/settings/system/native/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/native/</guid><description>WIndows アクションセンターに通知が来たときに表示します。
+また、ログイン時に新規通知数を表示します。
+Linux Ubuntuの初期GUIの場合画面上部に出ます。
+macOS 画面右上に表示できます。
+を選択。 から 環境設定 を選択。 ネイティブ通知設定 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>ハードウェアアクセラレーションの無効化</title><link>http://docs.thedesk.top/settings/system/ha/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/ha/</guid><description>ハードウェアアクセラレーションはデフォルトで有効ですが、 一部環境において表示が崩れる場合があります。 その際は無効化してください。
+を選択。 から 環境設定 を選択。 ハードウェアアクセラレーションの無効化 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。また、再起動されます。</description></item><item><title>バックアップする</title><link>http://docs.thedesk.top/tool/trivia/backup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tool/trivia/backup/</guid><description>エクスポートしてください。
+復元はインポートで可能です。</description></item><item><title>バージョニングする</title><link>http://docs.thedesk.top/settings/system/versioning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/versioning/</guid><description>新しいバージョンをダウンロードするときの挙動
+「いいえ」(初期値)の場合 Windows TheDesk-setup.exeやTheDesk.exe(32bitの場合は-ia32が拡張子前に追加)
+Linux zip版の場合thedesk.zip。deb, snap版の場合thedesk_1.1.1_amd64.deb/snap
+macOS thedesk_1.1.1.dmg
+「はい」の場合 Windows TheDesk-setup-1.1.1.exeやTheDesk-1.1.1.exe(32bitの場合は-ia32が拡張子前に追加)
+Linux zip版の場合thedesk-1.1.1.zip。deb, snap版の場合thedesk_1.1.1_amd64.deb/snap(変更なし)
+macOS 変更なし
+を選択。 から 環境設定 を選択。 バージョニングする(Windowsのダウンローダ) 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>フォローする</title><link>http://docs.thedesk.top/user/hisorherprof/follow/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/hisorherprof/follow/</guid><description> フォローしたいユーザーのアイコンや、ブースト時の名前などをクリックしてください。
+画面下部
+の、
+を押してください。
+既にフォローされている場合は「フォロー解除」になり、解除できます。</description></item><item><title>フォローリクエストを許可する</title><link>http://docs.thedesk.top/user/myprof/auth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/myprof/auth/</guid><description> どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。
+上のの中から、
+を選択します。</description></item><item><title>フォロー推奨リストを表示する</title><link>http://docs.thedesk.top/user/myprof/frc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/myprof/frc/</guid><description>過去のリプライ、お気に入り登録、ブースト等を点数化し、関わりがあるのにフォローしていないユーザーを表示します。
+マストドン標準の機能ですが、マストドンのWeb内では見ることができません。
+どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。
+上のの中から、
+を選択します。</description></item><item><title>フォント/フォントサイズ</title><link>http://docs.thedesk.top/settings/system/font/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/font/</guid><description>フォント を選択。 から 環境設定 を選択。 フォント 値を変更し、 設定 を押します。クリックすると他の未保存の設定を含めて全て更新・保存されます。 CSSに準じています。一部指定できないフォントがあります。 フォントの一覧を取得する Linuxには非対応です。 「選択」を押すと、システムにインストールされているフォントが一覧で表示されます。
+フォントサイズ 規定となるサイズで、このサイズを基準に一定倍率で拡大縮小して表示します。
+を選択。 から 環境設定 を選択。 フォントサイズ 値を変更し、 設定 を押します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>ブロックする</title><link>http://docs.thedesk.top/user/hisorherprof/block/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/hisorherprof/block/</guid><description> ブロックしたいユーザーのアイコンや、ブースト時の名前などをクリックしてください。
+画面下部
+の、
+を押してください。
+既にブロックしている場合は「ブロック解除」になり、解除できます。
+参考:自分のブロック一覧</description></item><item><title>ブースト/お気に入り登録</title><link>http://docs.thedesk.top/basic/btfav/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/basic/btfav/</guid><description>トゥート下部の
+ブースト: お気に入り登録:を押します。</description></item><item><title>プロフィールの編集</title><link>http://docs.thedesk.top/user/myprof/profedit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/myprof/profedit/</guid><description> この機能は未完成です。
+どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。
+上のの中から、
+を選択します。
+[Tag: 未完成の歴史]</description></item><item><title>ヘルプとログ</title><link>http://docs.thedesk.top/menu/helplog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/menu/helplog/</guid><description>ログ 画面下部より「ヘルプとログ」を選んでください。 ログはアクセスにエラーが生じたとき(404とか500とか)に記録されます。3日保存されます。
+ヘルプ の「ヘルプ」はこのドキュメントに飛びます。</description></item><item><title>ホームと通知の未読管理</title><link>http://docs.thedesk.top/settings/timeline/unread/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/unread/</guid><description>ホームタイムラインや通知タイムラインのメニュー内のこのボタンを押すと、マーカー部分前後のタイムラインを表示します。
+最新まで読むか、カラムのアイコンをクリックするまで新しいトゥートは表示されません。
+を選択。 から タイムラインの設定 を選択。 ホームと通知の未読管理 のチェックを変更します。
+変更すると他の未保存の設定を含めて全て更新・保存されます。 未読管理マーカー保存のタイミング 最小化した TheDeskを終了した(オンにすると閉じるのに最大3秒かかります。) マウスが動いていない状態で1分以上経過した Mastodon 3.0.0から</description></item><item><title>マルチカラムの最低横幅</title><link>http://docs.thedesk.top/settings/system/width/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/width/</guid><description>TheDeskは自動伸縮式のマルチカラムを採用しています。カラムの最低横幅を指定できます。
+例 既定値(300px)に設定していて、ウィンドウサイズが1080pxの場合
+カラムが1個:1080pxが1つ カラムが2個:540pxが2つ カラムが3個:360pxが3つ カラムが4個:300pxが4つ(横スクロール) カラムが5個:300pxが5つ(横スクロール) を選択。 から 環境設定 を選択。 マルチカラムの最低横幅 値を変更し、 設定 を押します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>ミュート/ブロック一覧を見る</title><link>http://docs.thedesk.top/user/myprof/mute/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/myprof/mute/</guid><description> どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。
+上のの中から、
+ブロックは
+を、
+ミュートは
+を、
+を選択します。</description></item><item><title>ミュートする</title><link>http://docs.thedesk.top/user/hisorherprof/mute/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/hisorherprof/mute/</guid><description> ミュートしたいユーザーのアイコンや、ブースト時の名前などをクリックしてください。
+画面下部
+の、
+を押してください。
+既にミュートしている場合は「ミュート解除」になり、解除できます。
+参考:自分のミュート一覧</description></item><item><title>メインアカウントを設定</title><link>http://docs.thedesk.top/account/main/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/account/main/</guid><description>アカウントマネージャーから 指定しない場合最初にログインしたアカウントとなります。
+メインアカウントを設定しておくと、設定によっては、起動時などに標準で選択されているアカウントを固定できます。
+参照する設定
+を選択。 画面中部の
+から設定できます。 自分のプロフィールから 自分のプロフィールを開きます。(自分のアカウントを選択した状態でCtrl + Shift + Pを押したり、自分の通知から自分のアイコンを追うのが速いです。)
+「もっと」を押します。 「メインアカウントに設定」を押します。</description></item><item><title>ユーザーのトゥート一覧</title><link>http://docs.thedesk.top/user/basic/usertl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/basic/usertl/</guid><description> 表示したいユーザーのアイコンや、ブースト時の名前などをクリックしてください。 初期設定で表示されていますが、もしされていない場合は、を押してください。</description></item><item><title>ユーザーのフォロー/フォロワー</title><link>http://docs.thedesk.top/user/basic/flw/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/basic/flw/</guid><description> 表示したいユーザーのアイコンや、ブースト時の名前などをクリックしてください。
+フォローの場合
+を押してください。
+フォロワーの場合
+を押してください。</description></item><item><title>ユーザーエージェント</title><link>http://docs.thedesk.top/settings/system/useragent/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/useragent/</guid><description>ユーザーエージェントを変更できます。
+を選択。 から 環境設定 を選択。 ユーザーエージェントを好きな値に設定します。 変更 をクリックし、フォルダを選択します。 TheDeskのデフォルトユーザーエージェント Mastodon client: [randStr]です。[randStr]は100文字のBase64で使用される文字種です。</description></item><item><title>ユーザー情報を表示する</title><link>http://docs.thedesk.top/user/basic/show/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/basic/show/</guid><description> 表示したいユーザーのアイコンや、ブースト時の名前などをクリックしてください。 Note フォローされている場合、名前の下に「フォローされています」と表示されます。 botアカウントの場合、名前に続いて「botアカウント」と表示されます。 Since [日付]はアカウント登録日を表します。</description></item><item><title>リアルタイムユーザー数</title><link>http://docs.thedesk.top/tool/tips/rtuser/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tool/tips/rtuser/</guid><description>TheDeskをリアルタイムで何人が起動しているかを表示します。
+ディスプレイサイズが1300px以上の場合のみ有効です
+画面下部のを押します。 を押します。 を押します。
+最初は1+表示になります。
+ユーザー数に変動があったときにサーバーから通知されるので、サーバーから通知があったときに表示します。
+今すぐ知りたい場合は再読込してください。</description></item><item><title>リストから削除</title><link>http://docs.thedesk.top/user/hisorherprof/listremove/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/hisorherprof/listremove/</guid><description> 削除したいユーザーのアイコンや、ブースト時の名前などをクリックしてください。 を押してください。 削除したいリストの名前をクリックします。</description></item><item><title>リストに入っているユーザーを表示</title><link>http://docs.thedesk.top/timeline/list/showuser/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/timeline/list/showuser/</guid><description> 画面下部より「リスト」を選んでください。
+アカウントを選んで 一覧 を押してください。
+「テスト」は一例です。
+ユーザー一覧 を押してください。
+表示されます。</description></item><item><title>リストに追加</title><link>http://docs.thedesk.top/user/hisorherprof/list/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/hisorherprof/list/</guid><description> 追加したいユーザーのアイコンや、ブースト時の名前などをクリックしてください。
+を押してください。
+フォローしている時のみリストに追加できます。
+していなかった場合はフォローした後、もう一度ユーザー情報を表示させてからやり直してください。
+追加したいリストの名前をクリックします。</description></item><item><title>リストのタイムラインを表示</title><link>http://docs.thedesk.top/timeline/list/show/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/timeline/list/show/</guid><description> 画面下部より「リスト」を選んでください。
+アカウントを選んで 一覧 を押してください。
+「テスト」は一例です。
+表示 を押してください。</description></item><item><title>リストの新規作成</title><link>http://docs.thedesk.top/timeline/list/add/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/timeline/list/add/</guid><description> 画面下部より「リスト」を選んでください。
+アカウントを選んで 名前 欄にリストの名前を入力してください。
+新規作成 を押してください。作成が完了すると自動でリストの一覧が更新されます。</description></item><item><title>リプライ数表示</title><link>http://docs.thedesk.top/settings/timeline/reply/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/reply/</guid><description>マストドン2.5.0からそのトゥートへのリプライ数が表示されるようになりました。
+リプライ数はトゥートの人気度を測るバロメーターではありません。よって、2件以上のリプライがあっても一律1+と表示する設定を採用しています。
+を選択。 から タイムラインの設定 を選択。 リプライ数表示 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>ローカルタイムラインで言及を確認する</title><link>http://docs.thedesk.top/tootontl/tips/afterltl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/tips/afterltl/</guid><description>トゥートがローカルタイムラインでどのような反応をされているかをチェックできます。
+古いバージョンのMastodonでは対応していません。
+トゥート下部の を押します。 これより後のLocal TL(言及確認) を押します。 これより後のローカルタイムラインが表示されます。</description></item><item><title>ワードのミュート\(非推奨\)</title><link>http://docs.thedesk.top/mute/wordmute/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/mute/wordmute/</guid><description>フィルターを使用してください。
+基本的にワードミュートと方法は一緒です。</description></item><item><title>ワードの強調</title><link>http://docs.thedesk.top/mute/wordemp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/mute/wordemp/</guid><description>「TheDesk」を強調した結果
+を選択。 から ミュート・強調の設定 を選択。 入力します。
+Enterを押して確定します。
+設定 を押します。確認メッセージ等は出ませんが追加されています。 #&amp;mdash; title: 削除する description: 削除する menu: docs: weight: 30 parent: mute を選択。 から ミュート・強調の設定 を選択。 ×を押します。
+設定 を押します。確認メッセージ等は出ませんが削除されています。</description></item><item><title>他のアカウントで操作</title><link>http://docs.thedesk.top/user/hisorherprof/operation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/hisorherprof/operation/</guid><description>表示したいユーザーのアイコンや、ブースト時の名前などをクリックしてください。 を押してください。 「フォロー」と「プロフィール表示」ができます。</description></item><item><title>公開範囲の設定</title><link>http://docs.thedesk.top/post/basic/privacy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/basic/privacy/</guid><description>投稿画面下部の
+を押してください。 公開範囲を選択します。 各公開範囲の説明は割愛します。 Note 一部インスタンスでは、「限定公開」や「ローカル限定」も選択できます。</description></item><item><title>削除して再編集</title><link>http://docs.thedesk.top/post/basic/redraft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/basic/redraft/</guid><description>トゥート下部の
+を押します。
+で、
+1.OKを押します。
+Note 一部設定は引き継がれません。これはTheDesk側の仕様です。
+お気に入り数、ブースト数、リプライのつながりも全てリセットされます。
+この機能はトゥート本文のコピーと削除を同時にやっているにすぎません。</description></item><item><title>実況する</title><link>http://docs.thedesk.top/post/plus/tagstr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/plus/tagstr/</guid><description>全てのトゥートにタグを付けてくれる機能です。
+テキストエリアにそのタグが入りますが、無くても勝手に最後に付加されます。
+トゥートボックス下部のMy Tagsから対象のタグを選択。
+「実況」を押す。 解除するときも同じ手順です。</description></item><item><title>引用する</title><link>http://docs.thedesk.top/tootontl/basic/quote/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/basic/quote/</guid><description>引用形式の設定が必要です。
+デフォルトでは表示されません。
+トゥート下部の
+を押します。
+投稿ボックスが開きます。
+引用形式 引用形式は
+トゥートのURLだけ トゥートのURL+@以降 トゥートのURL+@+本文 を選択できます。
+2.,3.は相手に通知が行きます。
+未知の(連合をなしていない)インスタンスのトゥートのURLをトゥートした場合でも連合が新たに形成されます。</description></item><item><title>引用形式</title><link>http://docs.thedesk.top/settings/post/quote/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/post/quote/</guid><description>引用形式を指定します。初期設定ではこのボタンは表示されません。
+アカウント名は「@」以降を指し、これが付与されるとメンション扱いになり、相手に通知されます。
+を選択。 から 投稿設定 を選択。 引用形式 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。 Notice: 「表示しない」を選ぶこともできます。</description></item><item><title>投票する</title><link>http://docs.thedesk.top/tootontl/basic/poll/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/basic/poll/</guid><description>終了済みのアンケート
+投票したい選択肢を選択すると背景の色が変わります。 複数の選択肢を選べるアンケートもあります。 「投票」を押します。 結果だけ見る 「票数を隠す」設定にしていない場合は、投票する前に結果だけチラ見することができます。
+情報更新 他のインスタンスのアンケートの場合、最新の情報には仕様上なりません。</description></item><item><title>投稿の削除</title><link>http://docs.thedesk.top/post/basic/delete/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/basic/delete/</guid><description>投稿の削除 トゥート下部の
+を押します。
+で、</description></item><item><title>投稿ボックスの挙動</title><link>http://docs.thedesk.top/settings/post/postbox/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/post/postbox/</guid><description> たたむ
+トゥートした後トゥートボックスをたたみます。 投稿後も隠さない
+トゥーとした後もトゥートボックスをたたみません。連投に便利です。 枠外クリックで閉じない
+いつ何時でもボックスは開きっぱなしです。キーボードショートカットを使用したり、xを押さない限り消えません。 を選択。 から 投稿設定 を選択。 投稿ボックスの挙動 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>投稿後や起動時のアカウント</title><link>http://docs.thedesk.top/settings/post/main/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/post/main/</guid><description>メインアカウントを設定で設定したアカウントをメインで使用します。
+「メインアカウント」を使用すると、別のアカウントでトゥートしてもすぐにメインアカウントに変わります。
+起動時もメインアカウントでトゥートする設定になります。
+を選択。 から 投稿設定 を選択。 投稿後や起動時のアカウント 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>指定行数以上を折りたたむ</title><link>http://docs.thedesk.top/settings/timeline/autofold/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/autofold/</guid><description>長文トゥートはタイムラインを占拠します。
+行数や文字数がここで設定する値を超えたとき、TheDeskはCWと同じスタイルでたたみます。
+警告文はトゥートの最初の数文字です。
+「行数」指定は、実際の表示される行数ではありません。Enterなどを押して改行した数を指します。
+を選択。 から タイムラインの設定 を選択。 指定行数以上を折りたたむ の行や文字の値を変更します。 設定 をクリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>新規通知のポップアップお知らせの表示秒数</title><link>http://docs.thedesk.top/settings/system/popup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/popup/</guid><description>タイムラインを表示しているとき、この値を0より大きく設定することで、画面左下に通知の内容を表示させられます。
+を選択。 から 環境設定 を選択。 新規通知のポップアップお知らせの表示秒数 値を変更し、 設定 を押します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>時刻表記設定</title><link>http://docs.thedesk.top/settings/timeline/format/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/format/</guid><description>種類 相対時間 絶対時間 両方表示 混合表示 絶対時間の日付以上は、現在時刻と違う値のみ表示します。
+本日中の時刻に対しては日付は表示されません。 を選択。 から タイムラインの設定 を選択。 時間表記設定 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>時計を出しておく</title><link>http://docs.thedesk.top/tool/tips/clock/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tool/tips/clock/</guid><description>ディスプレイサイズが1300px以上の場合のみ有効です
+画面下部のを押します。 を押します。 を押します。</description></item><item><title>時間指定投稿</title><link>http://docs.thedesk.top/post/basic/scheduled/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/basic/scheduled/</guid><description> 投稿画面下部の
+から時間指定投稿を選択 好きな時間を入力してトゥートを押してください。 Mastodon 2.7.0より対応
+確認や削除・変更はAndroidで利用できるSubway Tooterなどではできますが、TheDeskではできません。</description></item><item><title>検索</title><link>http://docs.thedesk.top/menu/src/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/menu/src/</guid><description>画面下部より「検索」を選んでください。 検索ワードを入れて検索を押す(またはEnterキー)で検索できます。 tootsearch トゥートの全文検索システムのtootsearchに対応しています。アカウント選択でtootseachを選ぶと利用可能です。
+検索結果は新しいカラムで開きますが、ストリーミングには非対応です。更新するためにはカラムヘッダのアイコンをクリックします。</description></item><item><title>検索エンジン</title><link>http://docs.thedesk.top/settings/system/searchengine/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/searchengine/</guid><description>タイムラインから一発検索で使用する検索エンジンの設定。
+{q}に検索ワードが入ります。初期値はgoogle.comです。
+を選択。 から 環境設定 を選択。 検索エンジン を編集してください。保存すると他の未保存のものの値も保存されます。</description></item><item><title>添付画像の自動リサイズ</title><link>http://docs.thedesk.top/settings/post/resize/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/post/resize/</guid><description>最大の長辺ピクセルを指定します。2560x1440(px)の画像で1920pxに設定していた場合、 長辺(2560px)が1920pxに圧縮されて1920x1080(px)の画像になって投稿されます。
+JPEG、PNG以外の画像はすべてPNGになります。GIFアニメ等は変換過程で静止画になります。
+0にするとリサイズしません。
+を選択。 から 投稿設定 を選択。 添付画像の自動リサイズ 値を変更し、 設定 を押します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>独自ロケール</title><link>http://docs.thedesk.top/settings/timeline/locale/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/locale/</guid><description>詳細はマストドン日本語ウィキを参照。
+を選択。 から タイムラインの設定 を選択。 独自ロケールを使用 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>画像に説明を追加</title><link>http://docs.thedesk.top/post/plus/desc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/plus/desc/</guid><description> 画像をアップロードした後、その画像のサムネイルをクリックします。
+画像アイコンのままの場合、クリックしてサムネイルを取得してください。参照 Postをクリックして変更を保存します。</description></item><item><title>画像の高さ</title><link>http://docs.thedesk.top/settings/timeline/height/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/height/</guid><description>タイムライン上の画像の高さを設定します。
+を選択。 から タイムラインの設定 を選択。 画像の高さ の値を変更します。設定 をクリックすると他の未保存の設定を含めて全て更新・保存されます。
+fullを指定するとクロップ(切り抜き)せずにすべて表示します。タイムラインを占拠する可能性があります。</description></item><item><title>画像をリモートから取得</title><link>http://docs.thedesk.top/settings/timeline/fetchremote/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/fetchremote/</guid><description> を選択。 から タイムラインの設定 を選択。 画像をリモートから取得 のチェックを変更します。
+変更すると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>画像を添付・削除</title><link>http://docs.thedesk.top/post/basic/img/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/basic/img/</guid><description>添付 投稿画面下部の
+を押してください ファイルを選択します。 ドラッグアンドドロップでも添付できます
+クリップボードにある画像もCtrl+Vで貼り付けられます
+スタンプ機能を使用する時は事前に設定をします
+削除 画像のサムネイルを右クリックしてください。画像アイコンのままの場合、クリックしてサムネイルを取得してください。
+画像アイコン が表示されているとき、メディアは非同期的にアップロードされています。(Mastodon 3.1.3より)
+このアイコンをクリックすると、アイコンのサムネイルを取得します。これで取得できた場合、 アップロードは完了しています。そうでない場合、まだ完了していません。
+動画等の重いファイルや、サーバー・オブジェクトストレージ等の応答が遅い場合などは一度 サムネイルを取得してアップロードが完了しているかを確認することをおすすめします。
+もしアップロード未了の状態で投稿しようとすると、投稿に失敗したというダイアログが出ます。 Enterキーや「再試行」ボタンを押すことで再試行できます。</description></item><item><title>画像ビューアを使いこなす</title><link>http://docs.thedesk.top/tool/trivia/viewer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tool/trivia/viewer/</guid><description>画像をクリックすると、
+ビューワーが表示されます。
+左から順に
+DL進捗 画像拡大縮小( マウスホイールでも可能です！ ) ダウンロード( 保存先 ) この画像のトゥートを詳細表示 複数枚ある場合の切り替え( 矢印キーでも可能です！ ) 閉じる</description></item><item><title>画像投稿設定</title><link>http://docs.thedesk.top/settings/post/img/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/post/img/</guid><description>通常設定する必要はないため、説明は記載しません。
+を選択。 から 投稿設定 を選択。 画像投稿設定 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>紹介する</title><link>http://docs.thedesk.top/user/hisorherprof/endorse/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/hisorherprof/endorse/</guid><description>マストドン2.5.0~から、公開プロフィールページの右側に～'S CHOICESとして表示されるものです。
+APIは用意されていないのでTheDeskから見ることはできません。「ブラウザで開く」機能をご利用ください。
+表示したいユーザーのアイコンや、ブースト時の名前などをクリックしてください。
+左側の、を押してください。
+すでに紹介済みの場合は「紹介解除」と表示され、解除できます。</description></item><item><title>絵文字にゼロ幅スペースを使う</title><link>http://docs.thedesk.top/settings/post/zero-width/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/post/zero-width/</guid><description>カスタム絵文字の間の区切りに通常のスペース「 」を使わず、幅のないスペースを使用します。複数のカスタム絵文字を使うときなどの見栄えが良くなります。
+を選択。 から 投稿設定 を選択。 絵文字にゼロ幅スペースを使う 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>絵文字を挿入</title><link>http://docs.thedesk.top/post/basic/emoji/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/basic/emoji/</guid><description>投稿画面下部の
+を押してください。 初めて使う場合、
+と出るので絵文字リストを取得してください。(現行バージョンと背景色が異なりますが使い方は一緒です) カスタム絵文字 (カスタム絵文字が表示されていない場合は下の + を押してください。)
+(現行バージョンと背景色が異なりますが使い方は一緒です)
+下の &amp;lt; &amp;gt; でページングできます。
+絵文字が更新された場合は上の 絵文字更新 を使用してください。
+普通の絵文字 下のアイコンから切り替えられます。</description></item><item><title>自分のプロフィールを表示する</title><link>http://docs.thedesk.top/user/basic/myprof/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/basic/myprof/</guid><description> どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。</description></item><item><title>言語</title><link>http://docs.thedesk.top/settings/system/lang/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/lang/</guid><description>言語を変えられます。
+日本語 日本語(関西) 英語 Crowdin translate system български Česky Deutsch Spanish, Argentina 「Crowdin translate system」は知識のある方のみご利用ください。
+を選択。 から 環境設定 を選択。 値を変更します。</description></item><item><title>設定のインポート</title><link>http://docs.thedesk.top/settings/system/import/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/import/</guid><description>全てのデータが削除されます。
+を選択。 から 環境設定 を選択。 インポート を選びます。 読み込むファイルを指定します。 インポート形式 最新: 20.3.3現在 2.1
+拡張子
+.json5: 18.9.0以降で作成されたエクスポートデータ .thedeskconfigv2: 17.2.0~18.8.3で作成されたエクスポートデータ .thedeskconfig: 16.0.1~17.2.0で作成されたエクスポートデータ いずれも読み込み可能ですが、旧バージョンの場合インポートされる情報が減ります。
+インポートができない 一部環境では、システムダイアログが使えない等でファイルを選択できません。 その時は中身をテキストエディタやメモ帳(notepad.exe)で開いてテキストボックスに貼り付けてインポートを押してください。同じようにインポートを行います。
+旧バージョンからのインポート Usain (17.2.0)までのバージョンでエクスポートした場合、拡張子が「*.thedeskconfig」になっています。
+最新のバージョンにもインポートできますが、以下の情報のみインポートされます。
+17.2.0までのTheDeskからインポートされる情報 ログインしているアカウントの認証情報とカラー カラムの並び順とヘッダーカラー(リンク解析や読み上げは除く) テーマ マルチカラムの最低横幅 フォント/フォントサイズ 画像の高さ 「起動後や起動時のアカウント」 デフォルトの公開設定 キーボードショートカットの設定 ユーザーの強調 クライアントの強調・ミュート ワードの強調・ミュート</description></item><item><title>設定のエクスポート</title><link>http://docs.thedesk.top/settings/system/export/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/system/export/</guid><description>を選択。 から 環境設定 を選択。 エクスポート を選びます。 保存先を指定します。 エクスポート形式 JSON5形式で出力します。
+一部設定はエクスポートされません。
+このデータは秘密にしてください。認証情報等が含まれているため、アカウントが乗っ取られる恐れがあります。
+保存機能がOSの制約で動かない場合があります。(PWA版など)
+その時は下のテキストボックスに保存内容と同じものをテキストで表示しますので、 それをテキストエディタやメモ帳(notepad.exe)等で保存してください。
+メタ情報 エクスポートしたデータをJSON5として整形して、meta属性付近を確認してください。
+meta: { date:'2020-05-03T15:11:58.559Z', platform:'win32', thedesk:'20.3.3 (Kawaii)' }, revisons:2.1 dateは作成日時を、platformはOS(win32: Windows / linux: Linux / darwin: macOS)を、 thedeskは作成バージョンを示します。
+また、revisionsはエクスポートファイルのバージョンを示します。</description></item><item><title>読み上げの設定</title><link>http://docs.thedesk.top/settings/etc/tts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/etc/tts/</guid><description>読み上げのボリュームや速度、高さを調節できます。
+を選択。 から 読み上げの設定 を選択。 スライダーで値を変更します。 設定 をクリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>返信する</title><link>http://docs.thedesk.top/tootontl/basic/reply/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/basic/reply/</guid><description> トゥート下部の を押します。 投稿ボックスが開きます。 注意 トゥートするアカウントはそのタイムラインのアカウント固定です。他のアカウントを用いる場合 投稿範囲はそのトゥートのものに準じます。</description></item><item><title>通知を開いているとき、通知新着お知らせを表示する</title><link>http://docs.thedesk.top/settings/timeline/notif/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/notif/</guid><description>標準では、通知があるとこのように表示されます。(新着お知らせ機能)
+通知カラムがあるのにこの表示が鬱陶しいという声があったため、
+この機能では、そのアカウントの通知カラムがある時、新着お知らせ機能をそのアカウントに限りオフにします。
+を選択。 から タイムラインの設定 を選択。 通知を開いているとき、通知新着お知らせを表示する 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>通知音</title><link>http://docs.thedesk.top/settings/timeline/sound/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/sound/</guid><description>「リプライ」「お気に入り」「ブースト」「フォロー」について個別に通知音を設定できます。
+「規定」
+を選択。 から タイムラインの設定 を選択。 各々の値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。 「規定」 「リプライ」「お気に入り」「ブースト」「フォロー」についてそれぞれ異なった通知音が用意されています。
+Custom 「カスタム通知音」の1～4で個別に設定できます。
+96kHz/24bitを含むFLACファイルや、WAV、MP3、MP$(AAC/M4A)などが選択できます。あらかじめ通知音に適したようにカットしてください。</description></item><item><title>連合タイムラインで言及を確認する</title><link>http://docs.thedesk.top/tootontl/tips/afterftl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/tootontl/tips/afterftl/</guid><description>トゥートがタイムラインでどのような反応をされているかをチェックできます。広い範囲を捜索するので大変です。
+古いバージョンのMastodonでは対応していません。
+トゥート下部の を押します。 これより後の連合TL(言及確認) を押します。 これより後の連合タイムラインが表示されます。</description></item><item><title>長文投稿時に警告</title><link>http://docs.thedesk.top/settings/post/autofold/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/post/autofold/</guid><description>長文トゥートはタイムラインを占拠します。
+行数や文字数がここで設定する値を超えたとき、TheDeskはCWと同じスタイルでたたみます。 しかしそのような実装をしているクライアントは多くないため、迷惑を掛けないためにも事前に防ぐ方法として用意しています。
+警告文はトゥートの最初の数文字です。
+「行数」指定は、実際の表示される行数ではありません。Enterなどを押して改行した数を指します。
+を選択。 から 投稿設定 を選択。 長文投稿時に警告 の行や文字の値を変更します。 設定 をクリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>非表示設定のテキスト\(CW\)を隠す</title><link>http://docs.thedesk.top/settings/timeline/cw/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/cw/</guid><description>「はい」を強く推奨します。
+を選択。 から タイムラインの設定 を選択。 非表示設定のテキスト(CW)を隠す 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item><item><title>非表示設定の画像\(NSFW\)を隠す</title><link>http://docs.thedesk.top/settings/timeline/nsfw/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/settings/timeline/nsfw/</guid><description>「はい」を強く推奨します。
+オンのとき
+オフのとき
+同じ画像のトゥートですが、ぼかしをかけるとどんな画像かの類推はほぼ不可能になります。
+を選択。 から タイムラインの設定 を選択。 非表示設定の画像(NSFW)を隠す 値を変更します。クリックすると他の未保存の設定を含めて全て更新・保存されます。</description></item></channel></rss>

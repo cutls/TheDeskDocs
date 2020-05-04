@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Users on TheDesk documentation</title><link>http://docs.thedesk.top/user/</link><description>Recent content in Users on TheDesk documentation</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><atom:link href="http://docs.thedesk.top/user/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://docs.thedesk.top/user/basic/auth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/basic/auth/</guid><description>フォローリクエストを許可する どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。 上のの中から、
+を選択します。</description></item><item><title/><link>http://docs.thedesk.top/user/basic/back/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/basic/back/</guid><description>1つ前のユーザーデータ プロフィール内で他のアカウントを開いた場合に1つ前のプロフィールを再表示できます。
+画面下部
+の、
+を押してください。</description></item><item><title/><link>http://docs.thedesk.top/user/basic/frc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/basic/frc/</guid><description>フォロー推奨リストを表示する 過去のリプライ、お気に入り登録、ブースト等を点数化し、関わりがあるのにフォローしていないユーザーを表示します。
+マストドン標準の機能ですが、マストドンのWeb内では見ることができません。
+どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。 上のの中から、
+を選択します。</description></item><item><title>cf ユーザー強調</title><link>http://docs.thedesk.top/user/hisorherprof/useremp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/hisorherprof/useremp/</guid><description>こちらを参照。</description></item><item><title>お気に入り一覧を見る</title><link>http://docs.thedesk.top/user/myprof/fav/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/myprof/fav/</guid><description>どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。
+上のの中から、
+を選択します。
+Note Mastodonは他のユーザーのお気に入りを見ることはできません。</description></item><item><title>ドメインブロックリストを見る</title><link>http://docs.thedesk.top/user/myprof/domblock/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/myprof/domblock/</guid><description> この機能は未完成です。
+どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。
+上のの中から、
+を選択します。
+[Tag: 未完成の歴史]</description></item><item><title>フォローする</title><link>http://docs.thedesk.top/user/hisorherprof/follow/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/hisorherprof/follow/</guid><description> フォローしたいユーザーのアイコンや、ブースト時の名前などをクリックしてください。
+画面下部
+の、
+を押してください。
+既にフォローされている場合は「フォロー解除」になり、解除できます。</description></item><item><title>フォローリクエストを許可する</title><link>http://docs.thedesk.top/user/myprof/auth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/myprof/auth/</guid><description> どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。
+上のの中から、
+を選択します。</description></item><item><title>フォロー推奨リストを表示する</title><link>http://docs.thedesk.top/user/myprof/frc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/myprof/frc/</guid><description>過去のリプライ、お気に入り登録、ブースト等を点数化し、関わりがあるのにフォローしていないユーザーを表示します。
+マストドン標準の機能ですが、マストドンのWeb内では見ることができません。
+どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。
+上のの中から、
+を選択します。</description></item><item><title>ブロックする</title><link>http://docs.thedesk.top/user/hisorherprof/block/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/hisorherprof/block/</guid><description> ブロックしたいユーザーのアイコンや、ブースト時の名前などをクリックしてください。
+画面下部
+の、
+を押してください。
+既にブロックしている場合は「ブロック解除」になり、解除できます。
+参考:自分のブロック一覧</description></item><item><title>プロフィールの編集</title><link>http://docs.thedesk.top/user/myprof/profedit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/myprof/profedit/</guid><description> この機能は未完成です。
+どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。
+上のの中から、
+を選択します。
+[Tag: 未完成の歴史]</description></item><item><title>ミュート/ブロック一覧を見る</title><link>http://docs.thedesk.top/user/myprof/mute/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/myprof/mute/</guid><description> どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。
+上のの中から、
+ブロックは
+を、
+ミュートは
+を、
+を選択します。</description></item><item><title>ミュートする</title><link>http://docs.thedesk.top/user/hisorherprof/mute/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/hisorherprof/mute/</guid><description> ミュートしたいユーザーのアイコンや、ブースト時の名前などをクリックしてください。
+画面下部
+の、
+を押してください。
+既にミュートしている場合は「ミュート解除」になり、解除できます。
+参考:自分のミュート一覧</description></item><item><title>ユーザーのトゥート一覧</title><link>http://docs.thedesk.top/user/basic/usertl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/basic/usertl/</guid><description> 表示したいユーザーのアイコンや、ブースト時の名前などをクリックしてください。 初期設定で表示されていますが、もしされていない場合は、を押してください。</description></item><item><title>ユーザーのフォロー/フォロワー</title><link>http://docs.thedesk.top/user/basic/flw/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/basic/flw/</guid><description> 表示したいユーザーのアイコンや、ブースト時の名前などをクリックしてください。
+フォローの場合
+を押してください。
+フォロワーの場合
+を押してください。</description></item><item><title>ユーザー情報を表示する</title><link>http://docs.thedesk.top/user/basic/show/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/basic/show/</guid><description> 表示したいユーザーのアイコンや、ブースト時の名前などをクリックしてください。 Note フォローされている場合、名前の下に「フォローされています」と表示されます。 botアカウントの場合、名前に続いて「botアカウント」と表示されます。 Since [日付]はアカウント登録日を表します。</description></item><item><title>リストから削除</title><link>http://docs.thedesk.top/user/hisorherprof/listremove/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/hisorherprof/listremove/</guid><description> 削除したいユーザーのアイコンや、ブースト時の名前などをクリックしてください。 を押してください。 削除したいリストの名前をクリックします。</description></item><item><title>リストに追加</title><link>http://docs.thedesk.top/user/hisorherprof/list/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/hisorherprof/list/</guid><description> 追加したいユーザーのアイコンや、ブースト時の名前などをクリックしてください。
+を押してください。
+フォローしている時のみリストに追加できます。
+していなかった場合はフォローした後、もう一度ユーザー情報を表示させてからやり直してください。
+追加したいリストの名前をクリックします。</description></item><item><title>他のアカウントで操作</title><link>http://docs.thedesk.top/user/hisorherprof/operation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/hisorherprof/operation/</guid><description>表示したいユーザーのアイコンや、ブースト時の名前などをクリックしてください。 を押してください。 「フォロー」と「プロフィール表示」ができます。</description></item><item><title>紹介する</title><link>http://docs.thedesk.top/user/hisorherprof/endorse/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/hisorherprof/endorse/</guid><description>マストドン2.5.0~から、公開プロフィールページの右側に～'S CHOICESとして表示されるものです。
+APIは用意されていないのでTheDeskから見ることはできません。「ブラウザで開く」機能をご利用ください。
+表示したいユーザーのアイコンや、ブースト時の名前などをクリックしてください。
+左側の、を押してください。
+すでに紹介済みの場合は「紹介解除」と表示され、解除できます。</description></item><item><title>自分のプロフィールを表示する</title><link>http://docs.thedesk.top/user/basic/myprof/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/user/basic/myprof/</guid><description> どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。</description></item></channel></rss>

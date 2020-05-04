@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on TheDesk documentation</title><link>http://docs.thedesk.top/post/</link><description>Recent content in Posts on TheDesk documentation</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><atom:link href="http://docs.thedesk.top/post/index.xml" rel="self" type="application/rss+xml"/><item><title>cf セカンダリートゥートボタン</title><link>http://docs.thedesk.top/post/secondary/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/secondary/</guid><description>こちらを参照。</description></item><item><title>cf トゥートをピン留め</title><link>http://docs.thedesk.top/post/pin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/pin/</guid><description>こちらを参照。</description></item><item><title>NowPlaying (macOS)</title><link>http://docs.thedesk.top/post/plus/itunes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/plus/itunes/</guid><description>macOS iTunesのNowPlayingです。macOS 10.15 Catalina以降の「ミュージック」にも対応しています。
+投稿画面下部の
+から「NowPlaying」を押してください。
+細かい投稿フォーマットは、SpotifyとNowPlayingの設定に記載されています。</description></item><item><title>NowPlaying (Spotify)</title><link>http://docs.thedesk.top/post/plus/spotify/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/plus/spotify/</guid><description>注意 SpotifyのNowPlayingのためにはアカウント連携が必要です。
+SpotifyとNowPlayingの設定
+Spotify 投稿画面下部の
+から「NowPlaying(Spotify)」を押してください。
+細かい投稿フォーマットは、SpotifyとNowPlayingの設定に記載されています。</description></item><item><title>よく使うタグ</title><link>http://docs.thedesk.top/post/plus/tag/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/plus/tag/</guid><description>登録 タグをクリックします。 「Pin」で登録できます。 削除 トゥートボックス下部のMy Tagsから対象のタグを選択。
+「削除」で削除できます。</description></item><item><title>アンケートを投稿</title><link>http://docs.thedesk.top/post/basic/poll/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/basic/poll/</guid><description> 投稿画面下部の
+からアンケートを選択 「アンケートを使用しない」をクリックして「Mastodon」を選択 選択肢1,2は必須、3,4は任意です。
+「複数選択を許可」や「投票するまで票数を隠す」はお好みでチェックしてください。
+最後の入力欄に終了期限を入れます。5分以上の値を設定してください。 アンケートを投稿しないときは、一番上の選択ボックスで「使用しない」を選択してください。
+Mastodon 2.8.0より対応</description></item><item><title>スタンプ機能</title><link>http://docs.thedesk.top/post/plus/stamp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/plus/stamp/</guid><description>スタンプ機能を使用した画像。右下に自分のacct(Cutls@cutls.com)が表示されます。 色は背景色に応じて黒/白が切り替わります。
+下部のスタンプ: Offを選択してOnにします。
+アップロードします。 必ずスタンプをOnにしてからアップロードしてください。
+投稿毎にOffに戻ります。</description></item><item><title>公開範囲の設定</title><link>http://docs.thedesk.top/post/basic/privacy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/basic/privacy/</guid><description>投稿画面下部の
+を押してください。 公開範囲を選択します。 各公開範囲の説明は割愛します。 Note 一部インスタンスでは、「限定公開」や「ローカル限定」も選択できます。</description></item><item><title>削除して再編集</title><link>http://docs.thedesk.top/post/basic/redraft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/basic/redraft/</guid><description>トゥート下部の
+を押します。
+で、
+1.OKを押します。
+Note 一部設定は引き継がれません。これはTheDesk側の仕様です。
+お気に入り数、ブースト数、リプライのつながりも全てリセットされます。
+この機能はトゥート本文のコピーと削除を同時にやっているにすぎません。</description></item><item><title>実況する</title><link>http://docs.thedesk.top/post/plus/tagstr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/plus/tagstr/</guid><description>全てのトゥートにタグを付けてくれる機能です。
+テキストエリアにそのタグが入りますが、無くても勝手に最後に付加されます。
+トゥートボックス下部のMy Tagsから対象のタグを選択。
+「実況」を押す。 解除するときも同じ手順です。</description></item><item><title>投稿の削除</title><link>http://docs.thedesk.top/post/basic/delete/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/basic/delete/</guid><description>投稿の削除 トゥート下部の
+を押します。
+で、</description></item><item><title>時間指定投稿</title><link>http://docs.thedesk.top/post/basic/scheduled/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/basic/scheduled/</guid><description> 投稿画面下部の
+から時間指定投稿を選択 好きな時間を入力してトゥートを押してください。 Mastodon 2.7.0より対応
+確認や削除・変更はAndroidで利用できるSubway Tooterなどではできますが、TheDeskではできません。</description></item><item><title>画像に説明を追加</title><link>http://docs.thedesk.top/post/plus/desc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/plus/desc/</guid><description> 画像をアップロードした後、その画像のサムネイルをクリックします。
+画像アイコンのままの場合、クリックしてサムネイルを取得してください。参照 Postをクリックして変更を保存します。</description></item><item><title>画像を添付・削除</title><link>http://docs.thedesk.top/post/basic/img/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/basic/img/</guid><description>添付 投稿画面下部の
+を押してください ファイルを選択します。 ドラッグアンドドロップでも添付できます
+クリップボードにある画像もCtrl+Vで貼り付けられます
+スタンプ機能を使用する時は事前に設定をします
+削除 画像のサムネイルを右クリックしてください。画像アイコンのままの場合、クリックしてサムネイルを取得してください。
+画像アイコン が表示されているとき、メディアは非同期的にアップロードされています。(Mastodon 3.1.3より)
+このアイコンをクリックすると、アイコンのサムネイルを取得します。これで取得できた場合、 アップロードは完了しています。そうでない場合、まだ完了していません。
+動画等の重いファイルや、サーバー・オブジェクトストレージ等の応答が遅い場合などは一度 サムネイルを取得してアップロードが完了しているかを確認することをおすすめします。
+もしアップロード未了の状態で投稿しようとすると、投稿に失敗したというダイアログが出ます。 Enterキーや「再試行」ボタンを押すことで再試行できます。</description></item><item><title>絵文字を挿入</title><link>http://docs.thedesk.top/post/basic/emoji/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://docs.thedesk.top/post/basic/emoji/</guid><description>投稿画面下部の
+を押してください。 初めて使う場合、
+と出るので絵文字リストを取得してください。(現行バージョンと背景色が異なりますが使い方は一緒です) カスタム絵文字 (カスタム絵文字が表示されていない場合は下の + を押してください。)
+(現行バージョンと背景色が異なりますが使い方は一緒です)
+下の &amp;lt; &amp;gt; でページングできます。
+絵文字が更新された場合は上の 絵文字更新 を使用してください。
+普通の絵文字 下のアイコンから切り替えられます。</description></item></channel></rss>
