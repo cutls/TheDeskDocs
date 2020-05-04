@@ -659,7 +659,7 @@ main {
 }
 #app {
   input {
-    width: 90%;
+    width: calc(100% - 20px);
     margin-bottom: .7em;
     padding: .55em;
     border: 0;
