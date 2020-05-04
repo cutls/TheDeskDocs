@@ -1,5 +1,5 @@
 ---
-title: cf フィルター
+title: cf フィルターを使う
 description: これは参照ページです
 menu:
   docs:

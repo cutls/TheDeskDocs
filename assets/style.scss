@@ -84,6 +84,8 @@ body {
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
   text-rendering: optimizeLegibility;
+  background-color: $darkest;
+  color: $lighter;
   font-size: 13px;
   line-height: 18px;
   font-weight: 400;
@@ -118,6 +120,7 @@ body {
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    color: $darkest;
     margin-top: 12px;
     margin-bottom: 52px;
 
@@ -151,6 +154,7 @@ body {
 
   & > ul a {
     display: block;
+    color: $white;
     text-decoration: none;
     font-weight: 500;
     padding: 10px;
@@ -199,6 +203,7 @@ main {
     font-size: 36px;
     line-height: 1.48;
     font-weight: 600;
+    color: $lightest;
     padding-bottom: 35px;
     border-bottom: 1px solid lighten($darkest, 8%);
     margin-bottom: 35px;
@@ -215,12 +220,14 @@ main {
     margin-top: 50px;
     margin-bottom: 30px;
     font-weight: 600;
+    color: $lightest;
   }
 
   h3 {
     font-size: 21px;
     line-height: 1.22;
     font-weight: 500;
+    color: $lightest;
     margin-top: 25px;
     margin-bottom: 30px;
     margin-left: -1.75px;
@@ -231,6 +238,7 @@ main {
     font-size: 18px;
     line-height: 1.22;
     font-weight: 500;
+    color: $lightest;
     margin-top: 25px;
     margin-bottom: 30px;
     margin-left: -1.75px;
@@ -241,6 +249,7 @@ main {
     font-size: 18px;
     line-height: 1.22;
     font-weight: 500;
+    color: $lightest;
     margin-top: 25px;
     margin-bottom: 30px;
     margin-left: -1.75px;
@@ -252,12 +261,14 @@ main {
     margin-top: 25px;
     margin-left: -1.75px;
     text-align: left;
+    color: $lightest;
     font-size: 16px;
     line-height: 28px;
     margin-bottom: 26px;
   }
 
   blockquote {
+    color: $lightest;
     font-size: 16px;
     line-height: 28px;
     font-style: italic;
@@ -273,11 +284,16 @@ main {
   }
 
   p {
+    color: $lightest;
     font-size: 16px;
     line-height: 28px;
     font-weight: normal;
     margin-bottom: 26px;
     hyphens: auto;
+  }
+
+  a {
+    color: lighten($vibrant, 18%);
   }
 
   img {
@@ -303,6 +319,7 @@ main {
 
   strong {
     font-weight: 600;
+    color: #fff;
   }
 
   ul,
@@ -315,6 +332,7 @@ main {
   ol li {
     margin-left: 30px;
     margin-bottom: 14px;
+    color: $lightest;
     font-size: 16px;
     line-height: 28px;
 
@@ -348,8 +366,12 @@ main {
   table {
     width: 100%;
     margin-bottom: 26px;
+    color: $lightest;
 
     tr:nth-child(2n),
+    thead tr {
+      background-color: darken($darkest, 4%);
+    }
 
     th,
     td {
@@ -397,7 +419,6 @@ main {
     font-size: 16px;
     line-height: 28px;
     background-color: lighten($darkest, 8%);
-    color: $white;
     border-radius: 4px;
     padding: 16px;
     overflow: auto;
@@ -413,7 +434,6 @@ main {
     font-size: 85%;
     font-family: 'Roboto Mono', monospace;
     background-color: lighten($darkest, 8%);
-    color: $white;
     border-radius: 3px;
     hyphens: none;
     white-space: pre;
@@ -447,6 +467,7 @@ main {
 }
 
 #TableOfContents {
+  color: $lighter;
 
   ul li {
     color: inherit;
@@ -462,6 +483,7 @@ main {
 
   a {
     text-decoration: none;
+    color: inherit;
   }
 
   padding-bottom: 35px - 14px;
@@ -474,6 +496,7 @@ main {
   border-radius: 4px;
   text-decoration: none;
   background-size: 60%;
+  background-color: #000;
   background-size: 60%;
   background-repeat: no-repeat;
   background-position: top right;
@@ -492,9 +515,11 @@ main {
     font-size: 26px;
     font-weight: 600;
     line-height: 1.58;
+    color: #fff;
   }
 
   p {
+    color: #fff;
     font-size: 16px;
   }
 }
@@ -510,9 +535,11 @@ main {
     line-height: 1.08;
     font-weight: 600;
     margin-bottom: 20px;
+    color: #fff;
   }
 
   p {
+    color: #fff;
     font-size: 18px;
     line-height: 1.22;
     margin-bottom: 20px;
@@ -520,7 +547,8 @@ main {
 
   & > a {
     font-weight: 500;
-    background: #000;
+    color: $vibrant;
+    background: #fff;
     border-radius: 4px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     font-family: inherit;
@@ -536,9 +564,10 @@ main {
 
     &.secondary {
       padding: 2px 14px;
-      border: 2px solid #000;
+      border: 2px solid #fff;
       background: transparent;
       margin-left: 4px;
+      color: #fff;
     }
 
     @media screen and (max-width: 375px) {
@@ -600,6 +629,8 @@ main {
 
 .page-ref {
   display: block;
+  background: lighten($darkest, 4%);
+  color: $vibrant;
   text-decoration: none;
   font-weight: 500;
   font-size: 18px;
@@ -619,5 +650,130 @@ main {
   &:focus,
   &:active {
     background: lighten($darkest, 8%);
+  }
+}
+
+.api-method {
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+  font-size: 18px;
+
+  &-method {
+    display: inline-flex;
+    align-items: center;
+    padding: 2px 0;
+    border-radius: 9999px;
+    height: 21px;
+    color: $white;
+    background: $vibrant;
+    margin: 0;
+    margin-right: 8px;
+
+    span {
+      display: inline-block;
+      padding: 0 8px;
+      font-size: 12px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      line-height: 15px;
+    }
+  }
+
+  &-url {
+    background: lighten($darkest, 4%);
+    border-radius: 4px;
+    padding: 8px;
+    font-size: 16px;
+    margin: 26px 0;
+    line-height: 1.7;
+  }
+
+  &-host {
+    color: $darker;
+  }
+
+  &-path {
+    font-weight: 700;
+    color: $white;
+  }
+}
+
+.api-method-parameters-list {
+  border: 1px solid lighten($darkest, 8%);
+  border-radius: 4px;
+  margin-bottom: 26px;
+}
+
+.api-method-parameters-type {
+  font-weight: 400;
+  color: $darker;
+}
+
+.api-method-parameters-type,
+.api-method-response-example h5 {
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+
+.api-method-parameter {
+  display: flex;
+  border-bottom: 1px solid lighten($darkest, 8%);
+
+  &:last-child {
+    border-bottom: 0;
+  }
+
+  &-cell {
+    box-sizing: border-box;
+    padding: 16px 10px;
+    color: $white;
+  }
+
+  &-required {
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 500;
+    color: $error;
+  }
+
+  &-optional {
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 500;
+    color: $darker;
+  }
+
+  &-name {
+    width: 180px;
+    font-size: 16px;
+
+    & > div:first-child {
+      margin-bottom: 2px;
+    }
+  }
+
+  &-type {
+    width: 100px;
+  }
+
+  &-description {
+    flex: 1 1 0%;
+    font-size: 15px;
+  }
+}
+
+.api-method-response-example {
+  &-indicator {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: $success;
+
+    &-error {
+      background: $error;
+    }
   }
 }
