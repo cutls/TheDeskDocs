@@ -1,4 +1,4 @@
-baseURL = "http://docs.thedesk.top/"
+baseURL = "https://docs.thedesk.top/"
 languageCode = "ja-jp"
 defaultContentLanguage = "ja"
 title = "TheDesk documentation"
@@ -32,8 +32,8 @@ enableGitInfo = true
   [[menu.docs]]
     name = "タイムライン上のトゥート"
     weight = 50
-    identifier = "toot-on-tl"
-    url = "/toot-on-tl/"
+    identifier = "tootOnTl"
+    url = "/tootOnTl/"
   [[menu.docs]]
     name = "ユーザー情報"
     weight = 60
@@ -50,10 +50,20 @@ enableGitInfo = true
     identifier = "menu"
     url = "/menu/"
   [[menu.docs]]
-    name = "設定"
+    name = "ミュート"
     weight = 90
+    identifier = "mute"
+    url = "/mute/"
+  [[menu.docs]]
+    name = "設定"
+    weight = 100
     identifier = "settings"
     url = "/settings/"
+  [[menu.docs]]
+    name = "便利機能"
+    weight = 90
+    identifier = "tool"
+    url = "/tool/"
 
 [languages]
   [languages.ja]

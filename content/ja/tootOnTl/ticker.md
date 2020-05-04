@@ -1,5 +1,5 @@
 ---
-title: cf \#InstanceTickerを使う
+title: cf #InstanceTickerを使う
 description: これは参照ページです
 menu:
   docs:
