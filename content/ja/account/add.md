@@ -1,6 +1,6 @@
 ---
-title: アカウントの追加\(Mastodon\)
-description: アカウントの追加\(Mastodon\)
+title: アカウントの追加(Mastodon)
+description: アカウントの追加(Mastodon)
 menu:
   docs:
     weight: 10
