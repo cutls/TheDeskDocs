@@ -1,5 +1,5 @@
 ---
-title: Windows
+title: Windowsにインストール
 description: WindowsにTheDeskをインストール
 menu:
   docs:

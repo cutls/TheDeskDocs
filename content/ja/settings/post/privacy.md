@@ -13,7 +13,7 @@ menu:
 「マストドンアカウントの既定値」とは、マストドン公式の設定上の  
 ![settings7](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings7.png)  
 「投稿の公開範囲」で指定した値です。  
-<img src="https://twemoji.maxcdn.com/v/12.1.6/72x72/26a0.png" width="20">この値はアカウント![account2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/account2.png)から「情報更新」を押さないと適用されない場合があります。  
+⚠この値はアカウント![account2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/account2.png)から「情報更新」を押さないと適用されない場合があります。  
 
 1. ![settings1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings1.png)を選択。
 1. ![settings2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings2.png)から __投稿設定__ を選択。

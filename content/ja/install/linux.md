@@ -1,5 +1,5 @@
 ---
-title: Linux
+title: Linuxにインストール
 description: LinuxにTheDeskをインストール
 menu:
   docs:

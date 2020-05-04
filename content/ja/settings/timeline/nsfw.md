@@ -1,12 +1,12 @@
 ---
-title: 非表示設定の画像\(NSFW\)を隠す
-description: 非表示設定の画像\(NSFW\)を隠す
+title: 非表示設定の画像(NSFW)を隠す
+description: 非表示設定の画像(NSFW)を隠す
 menu:
   docs:
     weight: 30
     parent: settings-timeline
 ---
-<img src="https://twemoji.maxcdn.com/v/12.1.6/72x72/26a0.png" width="20">「はい」を強く推奨します。  
+⚠「はい」を強く推奨します。  
 オンのとき  
 ![settings3](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings3.png)  
 オフのとき  

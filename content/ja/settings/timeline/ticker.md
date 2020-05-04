@@ -1,12 +1,13 @@
 ---
-title: #InstanceTickerを使う
-description: #InstanceTickerを使う
+title: InstanceTickerを使う
+description: InstanceTickerを使う
 menu:
   docs:
     weight: 130
     parent: settings-timeline
 ---
 
+タイトルは仕様上`InstanceTicker`となっていますが、正式名称は`#InstanceTicker`です。
 ![settings9](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settins9.png)  
 トゥートした人の所属インスタンスをわかりやすく彩ります(自インスタンス以外のトゥート向け)。<br>
 <a href="https://cdn.weep.me/mastodon/">#InstanceTickerについて</a> Copyright 2018 weepjp, kyori19.<br>

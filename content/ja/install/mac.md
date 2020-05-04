@@ -1,5 +1,5 @@
 ---
-title: macOS
+title: macOSにインストール
 description: macOSにTheDeskをインストール
 menu:
   docs:

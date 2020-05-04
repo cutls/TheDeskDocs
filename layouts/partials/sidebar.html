@@ -30,8 +30,11 @@
             <ul class="sub-menu">
               {{ range .Children }}
                 <li>
+                  {{ if .HasChildren }}
+                  <span>{{ .Name }}</span>
+                  {{ else }}
                   <a href="{{ .URL }}" class="{{ if $currentPage.IsMenuCurrent "docs" . }}active{{ end }}">{{ .Name }}</a>
-
+                  {{ end }}
                   {{ if .HasChildren }}
                     <ul class="sub-menu">
                       {{ range .Children }}

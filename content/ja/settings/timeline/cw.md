@@ -1,12 +1,12 @@
 ---
-title: 非表示設定のテキスト\(CW\)を隠す
-description: 非表示設定のテキスト\(CW\)を隠す
+title: 非表示設定のテキスト(CW)を隠す
+description: 非表示設定のテキスト(CW)を隠す
 menu:
   docs:
     weight: 40
     parent: settings-timeline
 ---
-<img src="https://twemoji.maxcdn.com/v/12.1.6/72x72/26a0.png" width="20">「はい」を強く推奨します。  
+⚠「はい」を強く推奨します。  
 
 1. ![settings1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings1.png)を選択。
 1. ![settings2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings2.png)から __タイムラインの設定__ を選択。

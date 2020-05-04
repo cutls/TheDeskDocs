@@ -11,7 +11,7 @@ menu:
 2. ![user1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/user1.png)
 3. ![user17](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/user17.png)を押してください。  
 
-   <img src="https://twemoji.maxcdn.com/v/12.1.6/72x72/26a0.png" width="20">フォローしている時のみリストに追加できます。  
+   ⚠フォローしている時のみリストに追加できます。  
 
    していなかった場合はフォローした後、もう一度ユーザー情報を表示させてからやり直してください。  
 
