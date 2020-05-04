@@ -1,0 +1,16 @@
+---
+title: 画像の高さ
+description: 画像の高さ
+menu:
+  docs:
+    weight: 120
+    parent: settings-timeline
+---
+
+タイムライン上の画像の高さを設定します。
+
+1. ![settings1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings1.png)を選択。
+1. ![settings2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/settings2.png)から __タイムラインの設定__ を選択。
+1.  __画像の高さ__ の値を変更します。__設定__ をクリックすると他の未保存の設定を含めて全て更新・保存されます。  
+**full**を指定するとクロップ(切り抜き)せずにすべて表示します。タイムラインを占拠する可能性があります。
+

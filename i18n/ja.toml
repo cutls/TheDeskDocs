@@ -1,0 +1,14 @@
+[improvePage]
+other = "このページを改善"
+
+[lastUpdated]
+other = "最終更新"
+
+[lastUpdatedDateFormat]
+other = "{{ .Format \"January 2, 2006\" }}"
+
+[viewSource]
+other = "ソースコード"
+
+[otherTranslations]
+other = "他の言語:"
