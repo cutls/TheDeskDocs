@@ -11,7 +11,7 @@ menu:
 マストドン標準の機能ですが、マストドンのWeb内では見ることができません。
 
 1. どこでもいいので自分のアイコンをクリックします。またはShift+Ctrl+Pでも表示できます。このとき表示されるのはその時点でトゥートするアカウントとして設定されているものです。
-2. 上の![user2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/user2.png)の中から、  
+2. 上の![user2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/user2.png)の中の、  
 
-   ![user13](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/user13.png)を選択します。  
+   上の![user7](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/user7.png)の中から選択します。  
 
