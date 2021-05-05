@@ -13,8 +13,10 @@ menu:
   
 ![tool3](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/tool3.png)  
 左から順に  
-* DL進捗
+* DL進捗、読み込み時間、容量
 * 画像拡大縮小( __マウスホイールでも可能です！__ )
+* 画像の回転
+* URLのコピー(画像の直リンク)
 * ダウンロード( [保存先](https://docs.thedesk.top/settings/system/save) )
 * この画像のトゥートを詳細表示
 * 複数枚ある場合の切り替え( __矢印キーでも可能です！__ )

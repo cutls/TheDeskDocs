@@ -7,6 +7,8 @@ menu:
     parent: tootontl-tips
 ---
 
+タイムライン設定で、「[コンテキストツール](https://docs.thedesk.top/settings/timeline/context)」をオンにする必要があります。
+
 トゥートがタイムラインでどのような反応をされているかをチェックできます。広い範囲を捜索するので大変です。  
 古いバージョンのMastodonでは対応していません。
 

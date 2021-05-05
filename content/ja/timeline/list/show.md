@@ -6,6 +6,7 @@ menu:
     weight: 20
     parent: timeline-list
 ---
+
 1. 画面下部![toot13](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/toot13.png)より「リスト」を選んでください。
 2. ![timeline15](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/timeline15.png)  
 

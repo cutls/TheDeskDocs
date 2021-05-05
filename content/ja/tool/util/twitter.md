@@ -7,6 +7,10 @@ menu:
     parent: tool-util
 ---
 
+
+環境設定で、「[WebViewの使用](https://docs.thedesk.top/settings/system/webview)」をオンにする必要があります。
+
+
 1. 画面下部の![timeline2](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/timeline2.png)を押します。
 
    ![timeline1](https://raw.githubusercontent.com/cutls/TheDeskDocs/master/media/timeline1.png)
